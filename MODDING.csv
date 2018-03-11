@@ -106,6 +106,11 @@
 "GER_M04_20";"868c85c9:45f36b1c:732b40a3:949d32f1";"---";;"我らのそれまでの損失を埋め合わせるために.";;
 "GER_M04_21";"2f053a54:448e7607:3aa1ebb8:a929a292";"---";;"その新型装備は,われらの部隊に大きな追加支援をもたらすだろう.";;
 
+"UK_FIN_01";"2361bba0:4a1b2742:3e56e19b:a289f2a9";"---";;"112高地は我々のものだ,我らが支払った代償に価値があることを願おう.";;
+"UK_FIN_02";"9ec744eb:43a0a723:241006a2:69c9a5ff";"---";;"ドイツ軍はもうこれ以上カーン周辺を支配することは出来なくなるだろう.";;
+"UK_FIN_03";"c6b0c61b:410850bb:b85857ae:d046204d";"---";;"ついに開けた地に足を踏み入れた:"
+"UK_FIN_04";"5aaf8c45:4fa8e5d1:51813a8e:19e0517e";"---";;"機甲師団を解き放つ時が来た."
+
 "UK_M01_01";"d3ded904:4abd8710:45e43eba:47400a4c";"---";;"6月6日,ダンケルクの後から丸4年";;
 "UK_M01_02";"5277b4d9:4e0518de:9bf726b6:7c82ccf3";"---";;"我らはフランスの地に戻った.";;
 "UK_M01_03";"429a2b3e:4b357a40:5aaddaa1:91867849";"---";;"敵の猛烈な抵抗や反撃にも関わらず,";;
@@ -651,7 +656,7 @@
 "SIZE_VB";"0d95c4d1:48a0a493:01e94f92:917ad9d3";"---";;"特大";;
 "SIZE_VS";"850caeae:46356b4d:e3539dac:7dfced34";"---";;"微小";;
 "SI_NEXT";"a3dff8a3:4d764be3:addf378f:7bdbd47d";"---";;"次へ";;
-"SR_Title";"2939c1d3:4e2f046e:a51590b1:1a569ec3";"---";;"戦闘配置ポイント";
+"SR_Title";"2939c1d3:4e2f046e:a51590b1:1a569ec3";"---";;"戦闘配置ポイント";;
 "STRESSED";"e059eb61:4d7560bb:48f2ddab:561a0aae";"---";;"ストレス";;
 "STUNNED";"7ad84a34:4bf0f300:e6081297:509a76ed";"---";;"麻痺!";;
 "STUNROUT";"3c256e0e:4cafa376:1f424194:f086ff67";"---";;"退却!";;
@@ -800,11 +805,11 @@
 "ADMKICKED";"d234bb11:469ab3b8:466b2e8f:d43944fe";"---";;"サーバーから切断されました";;
 "AH_DCKEXPO";"81d68676:419fd551:88d2b386:bc3e274d";"---";;"戦闘集団は文字列として輸出されました";;
 "AIR";"0ef5697f:437b372e:134b7c90:45369b0c";"---";;"航空機";;
-"AI_EASY";"41fdbd1b:445820e6:8c4ed2b9:eb4097a8";"---";;"AI Easy";;
-"AI_HARD";"49651b2e:4168126c:84c99699:ec5d1783";"---";;"AI Hard";;
-"AI_MEDIUM";"0bc42673:48ea7e67:90b7c085:d9402af8";"---";;"AI Medium";;
-"AI_VEASY";"4260c91e:45ac653b:83c762ad:77da751d";"---";;"AI Very Easy";;
-"AI_VHARD";"2d329766:4ecc1a3d:09bae5ac:e607d3ec";"---";;"AI Very Hard";;
+"AI_EASY";"41fdbd1b:445820e6:8c4ed2b9:eb4097a8";"---";;"AI 弱い";;
+"AI_HARD";"49651b2e:4168126c:84c99699:ec5d1783";"---";;"AI 強い";;
+"AI_MEDIUM";"0bc42673:48ea7e67:90b7c085:d9402af8";"---";;"AI 普通";;
+"AI_VEASY";"4260c91e:45ac653b:83c762ad:77da751d";"---";;"AI とても弱い";;
+"AI_VHARD";"2d329766:4ecc1a3d:09bae5ac:e607d3ec";"---";;"AI とても強い";;
 "ALLCHAN";"35c67ef6:4a4feb22:a75d68bb:2825aa9e";"---";;"CHANNELS";;
 "ARTILLERY";"82f26239:47ebb087:ddb790af:779eeb75";"---";;"砲兵";;
 "AT";"74842e79:427938d3:221ffb82:d231e628";"---";;"対戦車";;
@@ -823,6 +828,8 @@
 "Ask_NPass6";"c50a363b:4f06f9c2:44acf8b1:9967cd8a";"---";;"新しいパスワードを入力してください(最低6文字以上).";;
 "Ask_Pass";"4f27d490:45242b97:288860a6:6bbed0e4";"---";;"パスワードを入力してください.";;
 "August";"177bfd90:4de1969d:776ff487:44ba4c98";"---";;"8月";;
+"BTHB_AVAIL";"a2b10404:48422a1f:da9e9bad:4ede18ea";"---";;"７つの歴戦 - 強力ゲーム - 4つの新師団 - 2人のエース - 7つの功績";;
+"BTHT_AVAIL";"43fe2dd1:49422965:d8cfe281:af51171d";"---";;"新 拡張パック登場";;
 "BTN_ACCEPT";"910f5e87:462629f3:fae3bb92:d78c24c1";"---";;"適用";;
 "BTN_CANCEL";"8821e8ea:4fcef95d:4c071f85:839d8e70";"---";;"中止";;
 "BTN_CANMAJ";"b6053803:4338a5ad:9307ce8c:09607cc9";"---";;"中止";;
@@ -832,6 +839,7 @@
 "BTN_CONNEC";"66d31365:459144af:f78ee7a2:ea63fd60";"---";;"接続";;
 "BTN_CONTIN";"701876fc:4f534e04:8bfc1584:6f067ac7";"---";;"続ける";;
 "BTN_CREATE";"61c22a65:498ce1fb:781a76ac:8490a4ec";"---";;"作成";;
+"BTN_DL";"22e1112d:47c3d2a5:f88fb8a1:cb790be3";"----dlc2";;"ダウンロード";;
 "BTN_FILTER";"979405c1:41616e5d:42e1d48f:68d19574";"---";;"フィルター";;
 "BTN_LINK";"997ea509:4c9b6a6a:279fc8b7:c995f3b4";"---";;"LINK";;
 "BTN_NEXT";"ec4d5e1b:4a8599b3:4a79a384:f97e74a9";"---";;"NEXT";;
@@ -852,6 +860,7 @@
 "BtnGTPvP";"e44872a6:4c2fb0cd:ab0f79bb:00a94de5";"---";;"枢軸国 vs 枢軸国";;
 "CB_CREATE";"2eec9c1b:43547946:15bf5e82:6729eb65";"---";;"新規作成";;
 "CB_GAMDECK";"776ece2f:4a77274f:d572ff81:e6d8c916";"---";;"戦闘集団";;
+"CB_VIEWDCK";"9ffbf1f8:43833fff:7852c592:0f0d29a0";"---";;"閲兵 戦闘集団";;
 "CLOSE_SLOT";"0e9ed810:48f06477:8da0eeae:37e34e3a";"---";;"閉鎖";;
 "CLS_LAUNCH";"afc88a20:4b689610:a70d4695:c34a73e5";"---";;"戦闘開始";;
 "CLS_NATO";"37b9f70f:4f8b5abc:f95f8989:ea9a9ad6";"---";;"連合国";;
@@ -908,12 +917,14 @@
 "DS_SELECT";"bf07f9dc:48dcd0df:8495fc97:97f96153";"---";;"選択";;
 "DS_TITLE";"ff27f354:4ccf9141:137566b9:095f8f37";"---";;"師団選択";;
 "December";"da11cd85:49f26eeb:5ebb199c:e86fe19a";"---";;"12月";;
+"EGH_OUTCOM";"1ebf2a8c:4ce5c508:dfcd6a80:4ad41902";"---";;"結果";;
 "EGH_UNITXP";"089999e6:4bf0ca9b:2faa1990:bb7f34e4";"---";;"獲得経験値";;
 "EG_ADDS";"2c7e35af:49048f1d:283b16a5:3b4cea41";"---";;"加点";;
 "EG_BATTFLD";"c9e38371:48e42165:a785b0a4:36fde12f";"---";;"戦場";;
 "EG_CASUAL";"0f621c76:415852d4:2f324bb9:ad100262";"---";;"戦傷者";;
 "EG_CMDPTS";"959d203b:4f35da58:7809079b:ac1ec86e";"---";;"指揮ポイント";;
 "EG_DEBRIEF";"a03d89c4:464034fd:c169fabf:da5f587f";"---";;"結果報告";;
+"EG_DESTRU";"f278d172:40b25afe:1a5c1389:987b5613";"----";;"戦果";;
 "EG_DISCON";"1cf8fd3c:434838e7:29a87391:e7bf01d0";"---";;"ゲーム終了";;
 "EG_DISC_AL";"959e9978:4fc4f652:70223db2:48942416";"---";;"あなたの同盟者が回線切断しました.キャンペーンメニューに戻ります.";;
 "EG_DISC_OT";"b59f3360:463b49e9:dbbf61a2:d04c842f";"---";;"あなたの対戦者が回線切断しました.キャンペーンメニューに戻ります.";;
@@ -934,6 +945,7 @@
 "EG_MODIF";"d2b6abfa:4f336883:0a9c65b8:bae09b83";"---";;"掛け率";;
 "EG_MPLAY";"206c2899:49fff49e:c93985bf:76b6ea06";"---";;"プレイヤー";;
 "EG_MPOINT";"50de6d1a:4c16ddef:856cc0bd:3a4284a9";"---";;"ポイント";;
+"EG_OBJECT";"f9e8b27e:4ed361b3:5a82c2b7:3730c337";"---";;"目標を占領";;
 "EG_POINTS";"53497e50:4cf2ff94:0b34008c:f968fd99";"---";;"到達ポイント";;
 "EG_SHOOT";"f9adedf1:44dcf013:88b3daae:4ef0b951";"---";;"攻撃部隊";;
 "EG_TCASUAL";"13af1902:42473943:f2ebbca9:5f0bf23c";"---";;"チームでの損害";;
@@ -1023,6 +1035,84 @@
 "HGM_SIEGE";"3093a03f:438d343a:4b577997:928bbee4";"---";;"One team has a lot of income but no direct reinforcement zone, while the other team is surrounding them with deployment capability but weaker income.\nVictory conditions are the same as Desctruction mode.";;
 "HISTO_LIST";"3807aa28:4c8d8fc9:5835a9b7:9cb12241";"---";;"シナリオ";;
 "HUB_NEWCON";"316c5c7b:40477f74:b564329f:c7ff9745";"---";;"? 新登場";;
+
+
+"HB01_DATE";"e0d33002:4bd67b1a:b7576a82:eed83488";"----dlc2";;"#Arialbold{June 12th, 1944}";;
+"HB01_HIOUT";"be3dea79:47516d4a:1bbe14b6:2df858e5";"---dlc2";;"Although they lost #Arialbold{Caumont-l'Evente} quickly to the Big Red One, 2. Panzer's scouts managed to hide their weakness. Screening the gap behind them, they held La Londe long enough for reinforcements to arrive, preventing the Americans from tearing the German front apart before the Normandy campaign even really started.\n\nLa Londe would therefore remain in German hands for almost two more months, only being liberated by the British army during #Arialbold{Operation Bluecoat}.\n\nHow did #Arialbold{YOU} fare??";;
+"HB01_MAP";"4d76a3ee:499a530b:353fa483:f12fe815";"-----dlc2";;"#Arialbold{Caumont-l'Evente}";;
+"HB01_SCEOB";"dcd1cfc7:4fa75a8d:be1acd95:d2b22c52";"---dlc2";;"#Arialbold{AMERICANS}:\n\n- #Arialbold{Capture} the village of #Arialbold{La Londe} to break through the German screen.\n\n- Avoid excessive casualties.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} the village of #Arialbold{La Londe} to prevent the Americans to break the German front.\n\n- Inflict enough casualties to break the American moral.";;
+"HB01_SCEOF";"3cb25755:4e762701:78b86c8f:42cda0c8";"---dlc2";;"#Arialbold{AMERICANS}:\n\n#Arialbold{26th Infantry Regiment}?: this force regroups a full infantry battalion with its support weapons, all from the elite ≪?Big Red One?≫, as well as some armored cavalry elements.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Panzeraufklarungs-Abteilung 2}: with only two companies of armored infantry and scouts, supported by a handful of armed half-tracks, this force is the underdog. Only a skillful use of every single vehicle, as well as the ability to give up ground slowly, will prevent the enemy from breaking through.";;
+"HB01_SCEPR";"cb69b121:49be5e2d:2c83958a:b12104d5";"---dlc2";;"#Arialbold{Caumont's Gap} covers lost opportunity by US 1st Infantry Division to break the German front even before the Normandy campaign really started.\n\nAfter landing at ≪?Bloody?≫ Omaha with dreadful losses, the elite ≪?Big Red One?≫ moves carefully inland.\n\nNear Caumont-l'Evente, unbeknownst to them, they advanced right into a major gap in the German defenses, virtually undefended: only two companies from 2. Panzerdivision's recon battalion are there, screening the complete lack of in-depth defense behind them …";;
+"HB02_DATE";"65253fc3:4185c4c5:3bbaa790:564e6d07";"----dlc2";;"#Arialbold{July 4th, 1944}";;
+"HB02_HIOUT";"95e5718c:429c9d7c:125c96a2:b0149445";"---dlc2";;"Despite a staunch resistance from a  reduced company of young SS-Panzergrenadiers, the two Canadian battalions sent against #Arialbold{Carpiquet village} managed to secure the city after two hours of house-to-house fightings with the help of British 'Funnies', then held it all day against German counter-attacks.\n\nThings didn't go as well for the lone Canadian battalion sent against the #Arialbold{hangars}, which soon got several of its supporting tanks knocked out in the open by a German 88mm or dug-in tanks. After the initial assault got stopped in its tracks, a second one later in the day secured the hangars ...\n\n... but the #Arialbold{control buildings} proved too tough a nut to crack. Attacking in the wake of the fall of the hangars with massive air support, the Canadian tanks had to nonetheless move across the landing strip, completely in the open and in view of the German tanks & AA guns. After losing a dozen Shermans in short succession, the attack was called off.\n\nAlthough most of the airfield was now in Canadian hands, #Arialbold{Operation Windsor}'s goal of completely removing the German salient at Carpiquet wasn't met.\n\nHow did #Arialbold{YOU} fare??";;
+"HB02_MAP";"94efcd7c:4c9cee2b:ac2e15b9:bb8e8544";"-----dlc2";;"#Arialbold{Carpiquet}";;
+"HB02_SCEOB";"f2e50e36:409766cf:db491ea0:1d4f13ec";"---dlc2";;"#Arialbold{CANADIANS}:\n\n- #Arialbold{Capture} both #Arialbold{Carpiquet village}, the #Arialbold{hangars} & the #Arialbold{control buildings}.\n\n- Avoid Excessive casualties.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} as much objectives as you can among #Arialbold{Carpiquet village}, the #Arialbold{hangars} & the #Arialbold{control buildings}.\n\n- Inflict enough casualties to break the Canadian moral.";;
+"HB02_SCEOF";"9adc744e:410de199:b055038b:71e6dc5f";"---dlc2";;"#Arialbold{CANADIANS}:\n\n#Arialbold{3rd Canadian Infantry Division}: this mostly infantry force is supported by a few British AVRE & Crocodile tanks, its 25-pdr own divisional artillery as well as rocket Typhoons from RCAF. But almost entirely lacking tanks, it will have to rely on its armored counterpart to advance in open terrain.\n\n#Arialbold{2nd Canadian Armored Brigade}: but for a few scouts, this force is entirely composed of armored vehicles, mostly Sherman III, Sherman V & Firefly. Also attached to it are several artillery observers and a few Typhoon close air support planes. Lacking infantry, it will have to rely on its counterpart to advance in urban or wooden area.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe Krause}: this battlegroup is built around three companies of (motorized) Panzergrenadiers, reinforced with a few support weapons, among which six precious 88mm Flak guns. Krause's mission is to hold long enough for reinforcements to arrive.\n\n#Arialbold{Reserve-Abteilung}: this ad hoc battlegroup regroups everything Kurt Meyer could muster and send to Krause's rescue, from a few Panthers to massive heavy artillery support, or even walking wounded units?!";;
+"HB02_SCEPR";"acfcf96e:425011fa:e042d48c:353a74cb";"---dlc2";;"#Arialbold{Operation Windsor} covers the Canadian attempt at reducing the Carpiquet airfield salient held for a month by 12. SS-Panzer.\n\nOn July 4th, in the wake of a tremendous artillery barrage, the 3rd Canadian Infantry Division, supported by the tanks of 2nd Canadian Armored Brigade, launches a two-pronged attack on Carpiquet & its airfield.\n\nBut capturing the village in close combat is one thing, crossing the runway in the face of 88mm guns is another …";;
+"HB03_DATE";"a410a81e:4aafe3ba:9562539e:c54a62e0";"----dlc2";;"#Arialbold{July 6th, 1944}";;
+"HB03_HIOUT";"953a2ce1:43bc2799:e3b7d199:49b9d4b9";"---dlc2";;"After breaking off the first three SS attacks on their position, the defenders of the #Arialbold{Eastern crossroad} were finally overrun by half a dozen Panthers and the survivors taken prisoners.\n\nExploiting their success and leaving only a token force to deal with the prisoners, the SS resumed their advance against the #Arialbold{Northern crossroad}, where the Canadian company defending it was the weakest of them all, having no chance to keep the Germans at bay on its own. Yet, the timely appearance at the most critical moment of the two Wolverines quickly put two Panthers in flames, sending the others in retreat.\n\nThe #Arialbold{Western crossroad}, where the Canadians were supposed to make their last stand, was never threatened. The #Arialbold{Eastern crossroad} was even retaken when the Panther left behind with some infantry was destroyed by the joint effort of a 6-pdr gun and a PIAT for the killing blow.\n\nThe Germans then gave up and retreated to their starting positions, harassed all the way by Typhoons & Canadian Shermans finally coming to the rescue.\n\nHow did #Arialbold{YOU} fare??";;
+"HB03_MAP";"e374c6a5:4f59d8f5:ba8a408c:65d6b79b";"-----dlc2";;"#Arialbold{Carpiquet}";;
+"HB03_SCEOB";"abc7143b:48bd4d0e:cda5d1b0:182b3474";"---dlc2";;"#Arialbold{CANADIANS}:\n\n- #Arialbold{Hold} as much of the three #Arialbold{crossroads} within #Arialbold{Carpiquet village} as you can.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} as much of the three #Arialbold{crossroads} within #Arialbold{Carpiquet village} as you can.";;
+"HB03_SCEOF";"8ef8948e:4022b090:62ebe493:686da2fe";"---dlc2";;"#Arialbold{CANADIANS}:\n\n#Arialbold{Regiment de la Chaudiere}: the Quebeckers holding Carpiquet village initially only have riflemen, Vickers HMG, mortars and light AT weapons (PIAT & 6-pdr) to hold the Panthers at bay. By chance, a pair of Wolverines was also present. But it would have to do until the cavalry, in the form of the 2nd Canadian Armoured Brigade's Shermans and RACF's Typhoon, arrive later in the day.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe Weidenhaupt}: this 1. SS-Panzerdivision's battlegroup is built around III./1. SS-Panzergrenadier-Regiment reinforced with about twenty Panther tanks and some support elements from 12. SS-Panzerdivision. Even the Luftwaffe has contributed to this major counter-attack, providing a few fighters to cover the operation?!";;
+"HB03_SCEPR";"c55d0137:4c4a36da:8f3b6aa5:7bb54010";"---dlc2";;"#Arialbold{Dawn of the Panthers} covers follow-up battle for Carpiquet in the wake of #Arialbold{Operation Windsor}, two days earlier.\n\nWhile the Canadians had captured the village of Carpiquet and the hangars of the airfield, they had failed to secure the control building.  But 12. SS-Panzerdivision's commander Kurt Meyer wasn't a man to content himself with a partial defensive victory, or defeat: the next day, he scrapped together whatever units he could muster and launched counter-attacks after counter-attacks to recapture the lost positions. To no avail.\n\nBut at dawn on July 6th, the Quebeckers holding Carpiquet village are faced not only with their young SS Nemesis, but also about two dozens of Panthers from 1. SS-Panzerdivision called in support!";;
+"HB04_DATE";"05d1c18c:47e686b8:f2b0739c:48b24d29";"----dlc2";;"#Arialbold{July 18th, 1944}";;
+
+"HB04_HIOUT";"de874413:445fcf2d:8557eb8e:2ee458d6";"---dlc2";;"Briefly liberated but quickly abandoned twice on June 6th & 7th, #Arialbold{Escoville} had to wait for #Arialbold{Operation Atlantic} to be liberated almost without a fight on the wake of the preliminary barrage.\n\nThe Canadians had been ordered to secure Colombelles village and its #Arialbold{steelworks} (or the ruins of it) at all cost … and so they did. Despite heavy casualties, they secured the village at 5 PM, while another battalion entered the steelworks just before dusk: the hunt for German snipers and isolated pockets of resistance went on all night, but the #Arialbold{steelworks} was definitively in Canadian hands the next morning.\n\nThe Northern outskirts of #Arialbold{Giberville} were captured by the Canadians, but had to be abandoned in the face of an incoming Allied barrage, before being reoccupied later. By the end of the day, only part of the village was really secured.\n\nHow did #Arialbold{YOU} fare??";;
+"HB04_MAP";"c6659149:4be76253:1f5a1bb2:f420bd2f";"-----dlc2";;"#Arialbold{Colombelles}";;
+"HB04_SCEOB";"73aea10a:456d0a65:54cc27a7:5f3aaad9";"---dlc2";;"#Arialbold{ALLIES}:\n\n- #Arialbold{Capture} the #Arialbold{steelworks} and the villages of #Arialbold{Escoville} & #Arialbold{Giberville} to open the way to the Bourguebus Ridge to the British armored divisions.\n\n- Avoid excessive casualties.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} or #Arialbold{recapture} the #Arialbold{steelworks} and the villages of #Arialbold{Escoville} & #Arialbold{Giberville} to foil Operation Goodwood.\n\n- Inflict enough casualties to break the Canadian moral.";;
+"HB04_SCEOF";"be9538de:4e5865f8:24a702b1:ad27fb1c";"---dlc2";;"#Arialbold{CANADIANS}:\n\n#Arialbold{3rd Canadian Infantry Division}: attacking Colombelles village & steelworks with one brigade in front, 3rd CID relies mostly on riflemen, Vickers HMG, mortars and light AT guns, with plenty of fighter-bombers in support. But with only a dozen Shermans, it will have to rely a lot on its British counterpart to deal with any serious armored threat.\n\n#Arialbold{11th Armoured Division}: the ≪?Black Bull?≫ fields plenty of Cromwell, Shermans & Firefly and lead charges in tank country. Unfortunately, with its already few motor infantry delayed in the rear, it lacks most means to deal with villages and wooded area. Bypassing them or cooperating closely with the Canadian infantry will be the key to advancing.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{16. Luftwaffe-Felddivision}: the disheartened Luftwaffe infantry is no match for the Canadians, but they have ample MG and Flak guns to support them and clear the sky over their head. But with only a few medium anti-tank guns and only two StuGs of its own, it will have to rely on its counterpart to deal with major armored threat …  or wait for the heavy tanks from s.Panzer-Abteilung 503 later in the day.\n\n#Arialbold{21. Panzer}: KG von Luck is a well-balanced armored battlegroup composed of armored infantry & artillery, Panzer IV, assault guns and tank destroyers. Its main weaknesses lie with its modest air defense capacity, a defect its counterpart can compensate, and its limited amount of therefore precious infantry. Later in the day, its medium tanks are reinforced with some heavy ones from s.Panzer-Abteilung 503.";;
+"HB04_SCEPR";"b0ac7c5b:4ce18789:0670fb9e:11c67e5d";"---dlc2";;"#Arialbold{Operation Atlantic} covers the Canadian contribution to the larger British #Arialbold{Operation Goodwood}.\n\nThe objective was to secure the Bourguebus-Verrieres Ridge South of Caen to deny the Germans any chance of holding the city any longer: while British armored divisions were to charge in open country East of the Orne River, the Canadian infantry was to advance alongside the river, securing the tanks' right flank.\n\nBut from the start, things didn't go as planned, and the British armored divisions quickly went behind schedule, giving the Germans time to recover from the preliminary Allied bombardement and forcing 11th Armoured, the leading British armoured division, to leave its infantry behind to deal with pockets of resistance …";;
+
+"HB05_DATE";"8931f9de:4358f843:3f4ecab7:c55d4b84";"----dlc2";;"#Arialbold{August 21st, 1944}";;
+"HB05_HIOUT";"7764a885:4aaecead:c4b93a85:8c59956c";"---dlc2";;"Desperate to break out, the trapped Germans hurled themselves at the Polish battlegroup: settling centuries-old scores, the two opponents knew better than to ask (or grant) quarters to their bitter enemies.\n\nThe German tide was so overwhelming that it enveloped the Polish position on top of #Arialbold{Mont Ormel}, reducing it to almost nothing … yet the Poles kept fighting.\n\nWhen the Poles finally ran out of ammunition, they had to fight off the remaining waves with rifle butts or knives. Dead enemies were found mixed together in the same trenches, and German corpses had to be removed from the top of Polish tanks they had been climbing on to take them out hand to hand.\n\nMeanwhile, the American 90th Infantry Division and Polish battlegroup Zgorzelski were fighting to hold #Arialbold{Chambois}, sealing the Southern part of the pocket and preventing most germans from escapaing, all the while trying to extend a hand toward the trapped Poles on Mont Ormel.\n\nAlready fighting in #Arialbold{Saint-Lambert} to seal the Northern part of the pocket, 4th Canadian Armoured Division was both too weak and too late to completely seal the Northern route, allowing many Germans to escape to freedom. Yet, Canadian heavy artillery, masterly directed from inside the Polish positions by #Arialbold{Captain Sevigny}, proved essential to the survival of the defenders.\n\nFinally, the attack from outside the pocket by elements from II. SS-Panzer-Korps failed to crack the Polish position, but manage to help to create a corridor in the Northern part of the battlefield through which several thousand German soldiers, including commander-in-chief #Arialbold{Paul Hausser}, managed to escape the trap.\n\nHow did #Arialbold{YOU} fare??";;
+"HB05_MAP";"bd60df69:4ffdc062:485af7b5:bd76b057";"-----dlc2";;"#Arialbold{Mont-Ormel}";;
+"HB05_SCEOB";"d47f6fd8:4f9ae52b:6ca7ffa5:1fee9f40";"---dlc2";;"#Arialbold{ALLIES}:\n\n- #Arialbold{Hold} the #Arialbold{Mont Ormel} at all cost to prevent the Germans from escaping the pocket.\n\n- Inflict enough casualties to break the German moral.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} the #Arialbold{Mont Ormel} from the Poles to break out of the pocket.\n\n- Avoid excessive casualties.";;
+"HB05_SCEOF";"cb5e6fe4:4d693238:4a4a55ae:0a6e8bee";"---dlc2";;"#Arialbold{ALLIES}:\n\n#Arialbold{1. Dywizja Pancerna}: the main Polish force is the only one able to deploy in numbers on top of Mont Ormel to prevent it from quickly falling to the Germans escapees or relief force. But doing so they'll isolate themselves away from their reinforcement, coming back from the South where they had linked with the American. Well balanced forces, the Polish battlegroups only lack heavy artillery support, to be provided by its Canadian & American allies.\n\n#Arialbold{4th Canadian Armoured Division}: organized as a British armored division but almost entirely equipped with American equipment, 4th CAD relies mostly on tanks, with heavy artillery and bomber support to smash its way to the Poles. Lacking in infantry, it fields an unusual armored recon regiment equipped not with Cromwell or Stuart, but full-fledged Shermans?!\n\n#Arialbold{90th Infantry Division}: coming from the South, the ≪?Though Ombres?≫ rely on a strong core of infantry, backed up with light tanks and a few Shermans. It also gets heavy support from USAAF's fighter-bombers.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe Schimpf}: formed around a core of battle-hardened 3. Fallschirmjager-Division's veterans leading the way for the rest of the infantry column, it can rely on a strong AA support, as well as a few individual tanks, including the last functional Tigers.\n\n#Arialbold{KampfgruppeWisch}: composed of almost all the combat vehicles left in the pocket, mostly from 1. & 12. SS-Panzer as well as 116. Panzer, it relies on tanks, armored cars & mechanized infantry, with only a few individual AA & artillery guns to cover its advance.\n\n#Arialbold{II. SS-Panzer-Korps}: elements from 2. & 9. SS-Panzerdivision already outside the pocket are striking back to help the escapees break through the Polish positions. Although taking longer to build up its strength, it is a well-balanced force with ample AA & artillery support, as well as supplies.  ";;
+"HB05_SCEPR";"e61e99e4:4c8f9107:25659698:a2ddc900";"---dlc2";;"#Arialbold{A Polish Battlefield} covers the climax of the Normandy campaign, when the converging Allies armies trapped the German Seventh Army in the Falaise Pocket.\n\nWhen a battlegroup from 1st Polish Armoured Division occupied Mont-Ormel on August 19th, it effectively sealed the trap on the Germans. But what could 2.000 Poles against 150.000 Germans seeking to escape?\n\nTo do so, the Germans within the pocket organized all the troops still in fighting conditions in two columns: most of the armored vehicles in the South under a core of 1. & 12. SS-Panzer elements, and most of the infantry under 3. Fallschirmjager control in the North. On June 20th, coordinating with an attack by (what was left of) II. SS-Panzer-Korps from outside the pocket, those columns hurled themselves at the Poles to overrun them on their way to freedom.\n\nMeanwhile, Allied reinforcements were on their way from both North & South to link with the beleaguered Poles attacked from East & West.";;
+"HB06_DATE";"4a562b70:43ec1587:afc86b97:d745c217";"----dlc2";;"#Arialbold{July 30th, 1944}";;
+"HB06_HIOUT";"9b691cf1:4e542aa0:1ab431b8:ada480bf";"---dlc2";;"The inexperienced 326. Infanterie-Division couldn't withstand the Allied offensive, being quickly brushed aside by the joint effort of 15th Scottish Infantry Division & 6th Guards Tank Brigade, thus allowing for the liberation of #Arialbold{La Londe} in the first hours of the offensive.\n\nBut the neighbouring 43rd Infantry Division, which was supposed to secure #Arialbold{Cahagnes} on the first day, was delayed by minefields & unfavourable terrain, preventing the city to fall on schedule.\n\nBy a twist of fate, it is this delay which allowed three Jagdpanthers to attack from Cahagnes into the left flank of 6th Guards Tank Brigade, only screened by a squadron of Churchill left near the city. In a matter of minutes, a dozen Churchills were bursting in flames … Cahagnes was to remain German until the next day?!\n\Nonetheless, Bluecoat was a clear British victory, both breaking through the center of the German AND tying there troops which were supposed to take part in #Arialbold{Unternehmen Luttich}, the failed counter-offensive against the Americans near Mortain.\n\nHow did #Arialbold{YOU} fare??";;
+"HB06_MAP";"28da52fa:466c1677:ef473a8e:742a9dd6";"-----dlc2";;"#Arialbold{Caumont-l'Evente}";;
+"HB06_SCEOB";"28d09cd1:415afc51:3bfcd9bc:a2ba5cad";"---dlc2";;"#Arialbold{BRITISH}:\n\n- #Arialbold{Capture} both villages of #Arialbold{Cahagnes} & #Arialbold{La Londe}.\n\n- Avoid excessive moral.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} both villages of #Arialbold{Cahagnes} & #Arialbold{La Londe}.\n\n- Inflict enough casualties to break the British moral.";;
+"HB06_SCEOF";"28f6bab6:4f934de1:bcea84a3:1ea5c5cc";"---dlc2";;"#Arialbold{BRITISH}:\n\n#Arialbold{227th Infantry Brigade}: the now battle-hardened Scots are an infantry-centric force, with no armored support by for a few Crocodiles & AVRE. With only light artillery of its own, it can rely on the RAF to provide close air support, but will have to count on its counterpart to provide armored support.n\n#Arialbold{6th Guards Tank Brigade}: only recently landed in Normandy, the 6th Guards Tank Brigade is almost entirely equipped with Churchill tanks. But as a mere supporting brigade, it doesn't have infantry, recon nor AT guns of its own, relying entirely on its infantry counterpart for this.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe von Kamecke}: this force is built around Oberst von Kamecke's Grenadier-Regiment 752, reinforced with some artillery and tank destroyers, including some of the dreadful Jagdpanther.\n\n#Arialbold{Reserve-Abteilung}: this force is composed of whatever units the 326. ID's divisional commander could muster under his personal command to counter-attack the British breakthrough. It includes elements from the Pioniers & Fusiliers battalion, supported by the division StuG company and divisional artillery.";;
+"HB06_SCEPR";"754a32c7:4e4a9046:b2da3589:a0ce879c";"---dlc2";;"#Arialbold{Operation Bluecoat} covers the final British offensive which broke the German front in the wake of the successful American #Arialbold{Operation Cobra}.\n\nStriking at the boundary between the German Panzergruppe West & 7. Army and barely a week after the elite 2. Panzer holding it was replaced by the inexperienced 326. Infanterie-Division, the British troops had a field day breaking through the German front.\n\nThat was, before some Jagdpanthers unexpectedly showed up on a rampage ... ";;
+"HB07_DATE";"3178de85:433e1282:d595a9b8:3cbaea74";"----dlc2";;"#Arialbold{June 7th, 1944}";;
+"HB07_HIOUT";"1f38c621:4a086ce3:3c3b6187:51e946f1";"---dlc2";;"Ignoring enemy defenses along the coast, the relief column kept its combat pace despite enemy fire and bombardment, to the amazement of the Germans who called it a ≪?#Arialbold{crazy march}?≫.\n\nBut were the Germans couldn't stop or even slow down the relief column, conflicting orders and rumors did. The column's commander, upon being told that a German counter-attack had wiped out the Omaha beachhead and that Panzers were coming on his back, refused to abandon his mission but couldn't entirely dismiss the news. Halting his column, he went on a personal reconnaissance back to Vierville, where he learned that no German Panzer had been seen.\n\nBeing too late to keep marching in the dark, the column only resumed its advance on the next morning, reaching the survivors at the #Arialbold{Pointe du Hoc} on D-Day +2. There, decimated and out of ammo, the surviving Rangers had resolved to use German machine-guns to defend themselves, prompting tragic friendly-fire incidents when the relief column arrived and fired at ≪?German MG nest?≫.\n\nOut of the 225 Rangers who assaulted the Pointe, only about 90 were still able to fight, and out of them, just 51 unscathed.\n\nHow did #Arialbold{YOU} fare??";;
+"HB07_MAP";"e60c445a:4ef1dbff:204f9981:06a92c9b";"-----dlc2";;"#Arialbold{Pointe du Hoc}";;
+"HB07_SCEOB";"035c47c9:4c1ccbe4:c04fb8bd:8397cdd3";"---dlc2";;"#Arialbold{AMERICANS}:\n\n- #Arialbold{Hold} the isolated #Arialbold{Pointe du Hoc}.\n\n- #Arialbold{Capture} the German headquarter at the #Arialbold{castle}.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} the #Arialbold{Pointe du Hoc}.\n\n- #Arialbold{Protect} the headquarter set in the #Arialbold{castle}.";;
+"HB07_SCEOF";"66966070:465f39ce:b08b1696:b83dc2a5";"---dlc2";;"#Arialbold{AMERICANS}:\n\n#Arialbold{Rangers Composite Battalion}: this force regroups what remains of the 2nd Rangers' assault force surrounded at the Pointe, as well as the rest of the battalion and survivors from 5th Rangers (which ≪?led the way?≫ out of Omaha Beach) and the Rangers Gun Company. Incidentally, a handful of misdropped 101st Airborne paratroopers had joined the defenders of the Pointe on D-Day.\n\n#Arialbold{116th Infantry Regiment}: a reinforced infantry battalion with half a company of Sherman DDs attached, as well as some AA half-tracks & armored cars.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{726. Grenadier-Regiment} : elements from 716. Infanterie-Division, reinforced with alarm units from the Kriegsmarine, are manning the coastal defense and heavy batteries.\n\n#Arialbold{Kampfgruppe Heyna}: elements from Grenadier-Regiment 914 reinforced with some of the division's self-propelled guns.";;
+"HB07_SCEPR";"62ecfee3:4631c074:139c50b1:2d05a4a3";"---dlc2";;"#Arialbold{Rangers lead the way} covers the American rescue attempt to relieve the besieged Rangers at Pointe du Hoc on D-Day +1.\n\nAfter performing their famous cliffs climbing in the face of the enemy, considered by many as a suicide operation, two companies from 2nd Ranger Batallion at Pointe du Hoc became out of touch with the rest of the invasion army. Considered dead by most, it was not until the next day that a relief column moved from Omaha to secure the position and save what could be of the assault force.\n\nWhen learning that the place had been captured and was still held by captain Rudder's men, the relief column rushed to the rescue …";;
+"HB08_DATE";"8ee1d539:47e1866d:60cc8ba1:2c6a121d";"----dlc2";;"#Arialbold{June 6th, 1944}";;
+"HB08_HIOUT";"7a7ece9a:4ad77928:d32c4ab5:fda90447";"---dlc2";;"Reinforced in the nick of time by 3rd Infantry Division, Major Howard's Ox & Bucks company managed to keep hold of the #Arialbold{bridges at Benouville}.\n\nSurrounded for most of the day, the paratroopers (including 6th Airborne Division's CO General Gale) in #Arialbold{Ranville} broke eight German counter-attacks before being relieved by Lord Lovat's commandos. By the end of the day, the 6th Airlanding Brigade managed to land around the city, despite the LZ being still under German fire.\n\n#Arialbold{Amfreville} fell to the joint effort of the British & Canadian paratroopers from Merville and the British & French commandos from 1st SSB. Yet, by the end of June 6th, the Germans were still counter-attacking the village which couldn't be considered as entirely secured.\n\n#Arialbold{Breville} proved to be the ≪ village too far?≫: on June 6th, the British & Canadian paratroopers from 3 Para Brigade weren't strong enough to expel its garrison, which was quickly reinforced. Several attacks were launched against Breville in the next days, by the paratroopers, commandos or elements from 51st Infantry Division, but the Germans held their position until June 13th?!\n\nHow did #Arialbold{YOU} fare??";;
+"HB08_MAP";"c5c62bd4:46bf7a51:bf53b49e:90a2850c";"-----dlc2";;"#Arialbold{Pegasus Bridge}";;
+"HB08_SCEOB";"17032fa2:47cdd0f5:5eff8ea9:dec750cc";"---dlc2";;"#Arialbold{BRITISH}:\n\n- #Arialbold{Hold} both the #Arialbold{bridge} & #Arialbold{Ranville} to secure the airborne bridgehead for the arrival of the 6th Airlanding Brigade.\n\n- #Arialbold{Capture} both the #Arialbold{Breville} & #Arialbold{Amfreville} to link up with the British & Canadian paratroopers dropped around Merville.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} both the #Arialbold{bridge} & #Arialbold{Ranville} to crush the airborne bridgehead.\n\n- #Arialbold{Hold} both the #Arialbold{Breville} & #Arialbold{Amfreville} to prevent the two airborne forces around Merville & Benouville to link up.";;
+"HB08_SCEOF";"eb5074db:4c91f722:a3914fae:be70e794";"---dlc2";;"#Arialbold{BRITISH}:\n\n#Arialbold{3rd Para Brigade}: 3 Para had been dropped further North, near Merville and must now link up with the main airborne bridgehead. Initially moving on its objectives with what few & lightly equipped men it could muster during the night, it gets reinforced over the course of the battle with more airborne troops, including the airborne tanks & anti-tank or AA guns. Reinforcements may come from both across the bridge (elements from 5 Para Brigade) and the direction Vierville (elements from 3 Para Brigade).\n\n#Arialbold{3rd Division Group}: is made of layers of different units. First are elements from 5 Para Brigade holding the objectives until being relieved, but later builds up its strength with commandos, DD tanks and then the 'Iron Division' own infantry.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{736. Infanterie-Regiment}: Unfortunately for the 716. Infanterie-Division, both the landings at Omaha, Gold, Sword & Junot AND the British airborne landing occurred in its sector! Stretched thin, gathering whatever intervention force it could from its dispersed garrison, its 736. Grenadier-Regiment is nevertheless the first unit to stand against the British paratroopers.\n\n#Arialbold{Kampfgruppe von Luck}: Built around a core of 21. Panzer's Panzergrenadier, assault guns and armored artillery, with one Panzer IV company in support, KG von Luck is amongst the first mobile forces to counter-attack the Allied invasion on D-Day. With a simple goal: recapturing the bridges at Benouville.";;
+"HB08_SCEPR";"6f0c52a4:401311e1:531cc1b3:8eec4d55";"---dlc2";;"#Arialbold{Operation Deadstick} covers the battle between British & German troops for British airborne bridgehead on D-Day.\n\nWhile the paratroopers have secured the bridges at Benouville and the village of Ranville on the eve of the Allied invasion, they have to hold them under increasing pressure from the Germans until reinforcements get through them from Sword Beach.\n\nMeanwhile, paratroopers from 3rd Para Brigade dropped further North around Merville are now trying to link up with the main bridgehead.";;
+"HB1Colbl";"33baa674:4aec4279:cc9816a3:49e00517";"-----dlc2";;"作戦名 アトランティック (1944年7月18日) #2vs2";;
+"HB1ColblD";"0a38c75d:40f464ab:01a6a3a0:5c91e196";"----dlc2";;"作戦名 アトランティック";;
+"HB1Text";"d4fdd7cf:485d9cd9:e45d9b85:ad93627b";"------dlc2";;"攻撃側は,わずか地域しか支配下においていない状況下で,極端な被害(マップ上の支配地域の損失も10%以下)を抑えつつ,３つの作戦目標を奪取し維持します.\n\n防御側は,マップの殆どを支配下に置いています.防御側は,少なくとも１つの作戦目標を支配下に置き,攻撃側に十分な損失を与えなければなりません.";;
+"HB2MOrmDES";"13401af0:4db3b766:cb13b6a8:fb8402bb";"---dlc2";;"On July 15th, 1944, general Montgomery approved general Dempsey’s plan for an armored Scythe swoop around Caen’s Eastern flank to break through the German defenses and liberate the Norman capital city.\nWithin that grand plan, codenamed 'Operation Goodwood', the Canadian contribution was to be known as 'Operation Atlantic': an advance along the Orne river to capture the Colombelles steelwork factory (which for weeks had provided the Germans with a clear field of view over any Allied movement) and its neighboring villages. Meanwhile, the British VIII. Corps, composed of no less than three armored divisions (Guards, 7th & 11th) attacking together, was to smash through the enemy lines on the Canadians' left flank and size the Bourguebus-Verrieres ridge South of Caen to deny the Germans any chance of holding the city any longer.\n\nOn the start line facing Colombelles, East of the Ornes, was the now battle-hardened 3rd Canadian Infantry Division which had stormed Juno Beach over a month before, and to their left the British 11th Armoured Division, spearheading the VIII. Corps’ offensive.\n\nFacing them, holding the German front, was the 16. Luftwaffe-Felddivision, a second-rate unit but supported in its immediate rear by Kampfgruppe von Luck from the veteran 21. Panzerdivision and even the Tigers & brand new Konigstigers from schwere Panzer-Abteilung 503 in reserve.\n\nOperations 'Goodwood' & 'Atlantic' were initiated on July 18th, with complete allied air superiority and after a tremendous artillery & air bombardment shattering the 16. Luftwaffe’s positions. Immediately, the Canadians rushed forward and penetrated the first enemy lines, only to meet stiffening resistance as they closed on the Colombelles steelwork itself, due to the timely arrival of von Luck’s Panzergrenadiers.\nIn the more open terrain East of the Canadians, VIII. Corps’ armored divisions had a bad start due to an unreported minefield: forced to wait for the engineers to clear a way, the armored thrust was greatly delayed, giving the German defenders time to recover. As a consequence, the leading 11th Armoured Division had to very soon leave its rare infantry behind to deal with pockets of resistance while the tanks kept advancing unsupported.";;
+"HB2MOrmel";"41e68023:4f065086:1d8cfeb3:108ac287";"----dlc2";;"A Polish Battlefield (August 21st, 1944) #3vs3";;
+"HB2MOrmelD";"65c43e34:4f2b8670:fa97f582:fca4f152";"---dlc2";;"A Polish Battlefield";;
+"HB3Blueco";"1bc15ce9:450a3403:be12cc84:61c9e942";"----dlc2";;"Operation Bluecoat (July 30th, 1944) #2vs2";;
+"HB3BluecoD";"701cdb0f:42d3b147:0c82379e:018c51bf";"---dlc2";;"Operation Bluecoat";;
+"HB3PtHoc";"8bbe700e:47b19d75:755a68b0:093ae61c";"-----dlc2";;"Rangers Lead The Way (June 7th, 1944) #2vs2";;
+"HB3PtHocD";"0a2cbf93:46da6aeb:e97560b9:7537742c";"----dlc2";;"Rangers Lead The Way";;
+"HB4Cauml";"3983a52d:43a9d4e5:44c104ac:35109d5f";"-----dlc2";;"Caumont's Gap (June 12th, 1944) #1vs1";;
+"HB4CaumlD";"bac6bb08:41c21f11:6ee47086:dbb82ec3";"----dlc2";;"Caumont's Gap";;
+"HB4MSBl";"df45f0d1:4cd4397a:99d4858e:0724c46a";"------dlc2";;"Dawn of the Panthers (July 6th, 1944) #1vs1";;
+"HB4MSBlD";"387f6040:48bfea06:f05c2f95:9561de44";"-----dlc2";;"Dawn of the Panthers";;
+"HB5Carpt";"addc90ae:4916b099:38fa06ab:ca5fc6e8";"-----dlc2";;"Operation Windsor (July 4th, 1944) #2vs2";;
+"HB5CarptD";"a85dae95:4730ab32:97061dbf:2d677396";"----dlc2";;"Operation Windsor";;
+"HB6Dstck";"3be219e0:4546df33:194f2096:91913114";"-----dlc2";;"Operation Deadstick (June 6th, 1944) #2vs2";;
+"HB6DstckD";"7bb06d63:4713c7f1:0a3dbb8d:98713090";"----dlc2";;"Operation Deadstick";;
+"HBTTLES";"88ce95dd:43ed9bbe:fc720ab3:0cbf92e4";"------dlc2";;"戦史";;
+"HB_SCEHO";"3103511b:4b50f61e:5cb9a2b7:fa7b1588";"-----dlc2";;"史実の結果\n--------------------------------\n";;
+"HB_SCEOB";"892b6744:4718f6b1:7d0a24ae:bdb31b61";"-----dlc2";;"作戦目標\n--------------------------------\n";;
+"HB_SCEOF";"168da7b5:438cb70f:dc91bfa6:f7ed2ccc";"-----dlc2";;"--------------------------------";;
+"HB_SCEPR";"72708ccc:4d206125:e961d780:0d60333d";"-----dlc2";;"シナリオ\n--------------------------------\n";;
+"HS01";"773c4555:4ebb9d2a:d21de18d:ca937b48";"---------dlc2";;"BURON SOLO";;
+"HS02";"743b4b94:4530b41f:ab2b1280:67e3f0bd";"---------dlc2";;"BURON COOP";;
+
 "Hint1_1";"7afd3f06:42372501:4d9eef90:57f4bb50";"---";;"輸送ユニットが運搬している部隊を,その場で降車させるには「Ｕ」キーを押す";;
 "Hint1_10";"70360714:471d2126:5f54689c:5cbdb88a";"---";;"カーソルのある地点での視界を表示するには「Ｃ」キーを押す";;
 "Hint1_2";"1fad20e8:4d0c4c6c:9df5299e:3e54805f";"---";;"輸送ユニットが運搬している部隊を,任意の地点で降車させるには「Ｙ」キー+マップ上を左クリック";;
@@ -1048,6 +1138,7 @@
 "Hint3_13";"714c3be7:4d2559a5:08b875be:604236e6";"---";;"敗走したユニットは,援護してくれる味方ユニットが近くに居ない場合,近接攻撃距離に近づいてくる敵に降伏してしまう.";;
 "Hint3_14";"31145343:4d94d224:a591e1b4:fbea4a7a";"---";;"指揮官は極めて重要で近傍のユニットに4つの影響を与える：経験レベルを１つ上げる,降伏しなくなる,敵支配地域下でも士気が下がらない,制圧ダメージが半分になる";;
 "Hint3_15";"53333db7:462555f7:681290b2:4725d97b";"---";;"たとえ隠蔽していても,ユニットが武器を使用すればたちまち敵に視認される";;
+"Hint3_16";"2607a3b6:45c4eeaf:71e115b1:28f76176";"---";;"いくつかの軽対戦車砲は,建物内部に配置すると防御にボーナスを得る.";;
 "Hint3_2";"0bc3bc07:472b9409:9683b995:951bafca";"---";;"非武装の輸送車両が攻撃目標になると破壊される前に,自動的に乗車ユニットを降車させる";;
 "Hint3_3";"2ac754a9:4c84bf95:116c40b6:fee55483";"---";;"装甲車両は,AP弾が命中しても常にダメージを受けるとは限らない：跳弾するか,単に操作班を麻痺させるだけの事もある";;
 "Hint3_4";"2d3e0d3b:46c26e44:f09148ae:ef061701";"---";;"AP弾が戦車の装甲を貫通した場合,その場で破壊となるだろう... クリティカルヒットでなければ";;
@@ -1073,6 +1164,11 @@
 "Hint4_7";"710a76c6:4266cbbe:0b7a1b83:7eba31f6";"---";;"常に侵攻する姿勢を崩さず,敵前のマップの中心では直ぐに守備体制をとれるように構えておく";;
 "Hint4_8";"daf6f194:4d4772f9:fd2cb69f:bd157a76";"---";;"教会の鐘塔は水平線まで見渡せる視界を与える,特に偵察ユニットについては";;
 "Hint4_9";"4e53d163:4e6831b7:cf4d49be:5b6cf96c";"---";;"常に弾薬の補給状態に気を配る,特に砲兵部隊については";;
+
+"HistoForcs";"02efd522:4bc773bc:3e2f19ae:f652aea3";"---dlc2";;"敵軍";;
+"HistoText";"dffc2d5e:45319d56:f08aa499:2ed19788";"----dlc2";;"このモードは,歴史上実際に起きた戦闘をプレイする機会を与えます.戦闘集団は,史実に出来るかぎり沿うように事前作成され変更できません,\n\nプレイヤー側は,作戦目標を奪取し維持します.";;
+"HistoTitle";"981ed980:4538e0b2:c158c4a5:56247ccb";"---dlc2";;"シナリオ\n--------------------------------\n";;
+
 "INFANTRY";"76e5629d:48581046:b58f5ab6:1641d501";"---";;"歩兵";;
 "January";"8d6c46c3:420d8ae5:424c6789:25304d63";"---";;"1月";;
 "July";"df627791:41118cc7:ce2f9f95:4c94c7b1";"---";;"7月";;
@@ -1257,6 +1353,11 @@
 "OLB_DECKSB";"00222ba4:4c838c4c:07f6e6a0:a5cc3f1b";"---";;"クリックすると戦闘集団リストを開きます";;
 "OLB_DECKSE";"65b37091:4f907ebb:23bb279e:571e863b";"---";;"戦闘集団リストを開いても,ロビーから切断されません";;
 "OLB_DECKST";"20e9a56a:49598123:5a109f9b:270bebcd";"---";;"戦闘集団リストを開く";;
+
+"OLB_DIFFIB";"a97e06da:4c37fc1d:b6078bb5:9da6e2cd";"---";;"シナリオ難易度を設定";;
+"OLB_DOWNB";"ddd36c81:43cf3b4a:81307a86:19f5552f";"----";;"DLC購入 Steamストアを開く.";;
+"OLB_DOWNT";"22e3ae69:4b6835f8:a9e5c09b:0ae3aacf";"----";;"ダウンロード";;
+
 "OLB_GMMODB";"31f10305:4d8fe18a:e6ae0a82:c15ed3ca";"---";;"勝利条件(クローズコンバット,コンクエスト,デストラクション)を選択せよ.";;
 "OLB_GMMODE";"4e9a64fa:4d37ecc3:16d556a7:8bd443e6";"---";;"クローズコンバット,コンクエストは,敵よりも多くの地域を支配下に置けば勝利ポイントが得られます.\nデストラクションは,敵よりも多くのユニットを破壊すれば勝利ポイントが得られます.";;
 "OLB_GMMODT";"f027ecdf:417674fc:a0e51cbc:5c15ca06";"---";;"ゲームモード";;
@@ -1283,6 +1384,11 @@
 "OLB_VICPOB";"67525ce9:44dffd63:68c21794:821c5f73";"---";;"即時にゲームの勝敗が喫する勝利ポイント数を設定する.";;
 "OLB_VICPOE";"a3cfcd11:46100c1a:72bb37bd:fd2fba62";"---";;"制限時間満了迄に,双方とも勝利ポイントが勝利条件に満たない時は,より勝利ポイントの多い方が勝ちとなります.";;
 "OLB_VICPOT";"f8c69d69:4c3b2e5e:80b04fb0:473c68c6";"---";;"勝利条件";;
+
+"OLB_VIEWDB";"5439d7b8:4a145ee9:947c1aba:96f4bd7f";"---";;"クリックして選択したプレイヤーデッキを開く.";;
+"OLB_VIEWDE";"fbff8ef9:4272f5fb:a35742b1:96eecdc7";"---";;"デッキを見てもロビーからは退出されません.";;
+"OLB_VIEWDT";"da83f36d:49cffc48:c116ea95:3d3f9d5f";"---";;"デッキ 閲覧";;
+
 "OLB_VISBTB";"23ee749d:41ba5e5e:3a894a8f:ba2c70ac";"---";;"「パブリック」か「プライベート」かを選択せよ.";;
 "OLB_VISBTE";"b45084a6:476eb714:f29d4081:5589c169";"---";;"「パブリック」はゲームにアクセスできる全員から見えます\n「プライベート」はゲームにアクセスできるフレンドからのみ見えます.";;
 "OLB_VISBTT";"a0ff77d1:4eea1923:b97ff48d:899abf26";"---";;"サーバー種別";;
@@ -1307,6 +1413,7 @@
 "PAS_LONG";"1aae6bd2:4beb9094:5e9836bf:6b757546";"---";;"パスワードが長すぎる.";;
 "PAS_MATCH";"06eea415:4fa9ac5e:3deb2ab2:b0147d8a";"---";;"入力したパスワートが一致しない.";;
 "PAS_SHORT";"c4bb5a8f:4aa0eec3:8156f8bc:6e5324c2";"---";;"パスワードが短すぎる.";;
+"PGRACE_MSG";"c0eeff78:4693b442:ad11b785:ac0f41f0";"---";;"第6空挺師団のエース ”John Howard”をアンロックした\n楽しんでほしい";;
 "PL_InGame";"53d93c25:4afd490b:26b74297:3ac3f941";"---";;"ゲーム中";;
 "PL_InMenu";"4bcaae80:40961651:0529c2b7:8891c38d";"---";;"メニュー画面";;
 "PL_InSess";"7a4e7613:4b853529:48e5db98:1fb2ee0b";"---";;"In session";;
@@ -1361,10 +1468,10 @@
 "RND_PREDKX";"220cb730:4e48e726:612d0ea2:6f609482";"---";;"ランダム 枢軸国 既製-戦闘集団";;
 "ROOM_CFail";"8a7fa9da:413535c7:d9fb82be:3f7fd034";"---";;"ゲームルームを作る事ができません";;
 "RPLTI_OLD";"adad5e6d:47ab1bf8:36b27290:0c636ec1";"---";;"リプレイをロード中...";;
-"RPL_OLDOUT";"a2fb772a:45259578:8370e68a:377759a2";"---";;"A special viewer is needed to launch this replay. This operation may takes some time and will disconnect you from this server.";;
-"RPL_RENOVR";"77a84360:431afe09:d9ddce92:8c766ca1";"---";;"A replay with the same name already exists.";;
+"RPL_OLDOUT";"a2fb772a:45259578:8370e68a:377759a2";"---";;"このリプレイは特別なビューワーが必要です.この操作は,時間が掛かりるので,サーバーから切断されると思われます.";;
+"RPL_RENOVR";"77a84360:431afe09:d9ddce92:8c766ca1";"---";;"同名のリプライファイルが既に存在しています.";;
 "SAVE_OLD";"c1afe83d:4078cca6:6100cfb3:77224bd6";"---";;"セーブゲームをロード中...";;
-"SAV_OLDOUT";"53ae2471:4238d0d9:d5f1e9a7:54861592";"---";;"A special viewer is needed to launch this save. This operation may takes some time and will disconnect you from this server.";;
+"SAV_OLDOUT";"53ae2471:4238d0d9:d5f1e9a7:54861592";"---";;"このリプレイは特別なビューワーが必要です.この操作は,時間が掛かりるので,サーバーから切断されると思われます.";;
 "SGP_CAMP";"8bcfafaa:447fff90:e6250c85:0d11303f";"---";;"キャンペーン";;
 "SGP_CLOUD";"da0546f0:41d78117:4df72c87:d1536239";"---";;"クラウド";;
 "SGP_CMPG";"08b241b2:4bef62df:092d19ba:13e5203b";"---";;"キャンペーン";;
@@ -1624,7 +1731,33 @@
 "OP3bDHD";"9750c344:4425e79d:bda7d688:4e453724";"---";;"テュルクヴィル, 1944年6月7日";;
 "OP3cDHD";"120acb7e:436119d1:7ec8ceb6:eedc767b";"---";;"サント＝メール＝エグリーズ, 1944年6月8日";;
 "OP3dDHD";"a07b9e4a:4e434a34:0d40c9ad:81721219";"---";;"サント＝メール＝エグリーズ, 1944年6月11日";;
-"SCEN";"0f04a094:4d9cc905:fbcb6db8:44e91c07";"---";;"突破口";;
+
+"S01";"053b4d7d:42ed557b:57b0e380:e0f19dd1";"--------dlc2";;"ブロン 最後の抵抗";;
+"S01Desc";"d815d89e:42d054be:7099d79e:c43675fd";"----dlc2";;"\n\n1944年6月14日カーン近郊ヴノワの司令所を襲った艦砲射撃により,フリッツ ヴィット師団長は悲劇的な死を迎えた. この悲劇は貴官に重大な結果をもたらした.クルト ”パンツァー” マイヤー親衛隊大佐は,師団の指揮を執るため招集され.親衛隊少将 カール-ハインツ ミリアスが第25装甲擲弾兵連隊の指揮を執ったのに従い,貴官は第3大隊の指揮を引き継いだ.\n\n怠惰は貴官を不機嫌にさせますか?それは過去の事だ.今,敵は目の前にいる.貴官は,  6月7日に多くの戦いの場だった,ノルマンディの小さな村ブロンにおいて第3大隊の指揮を執った.ある時,村はカナダ軍の手に落ち,強力な反撃にも持ちこたえたのに,夜のうちにあっさりと放棄され,貴官の大隊兵によって占領された.それ以来ドイツ軍の手中にある. 貴方は,このような優れた防衛陣地を諦めるような考えをさっぱり理解できず,このような地を諦めるカナダ軍はイカレてるしか思えない.\n\nこの数日間,両軍はこの地域を重点的にパトロールしている.貴官の部隊も捕虜を捕まえるための多くの作戦に従事し,尋問によると,このセクターにおいて大がかりな作戦が近づいている事が明らかになった.観測員からの多くの報告(前線での敵軍の動き,航空活動が活発になり)と結びつけられる.貴官の準備はできている,部下の準備もできている.守る準備もできている.弾薬と補給物資も配給された.民間人は安全に避難した.困難な闘いになりそうだ.良い戦いができそうだ!.敵の砲が火を噴いた.時は0730.貴官はヤレヤレといった表情を浮かべる - カナダ軍はとても凡庸だ.\n\nブロンを守れ.";;
+"S01Fail";"ac2b1772:4c8cb77f:fc067fa0:4ee49ecc";"----dlc2";;"\n\nTry again !\n\WIP:\n\n  * WIP\n  * WIP";;
+"S01PhseB";"66eb5adb:4b544355:291c81af:a8d81d62";"---dlc2";;"カナダ軍 第二波 %1";;
+"S01PhseC";"3808469a:4efe6d06:b27c37b4:32922f82";"---dlc2";;"ドイツ軍 増援 %1";;
+"S01SAPhseA";"bc362f93:46bf7622:6b725e8c:bdcc2067";"-dlc2";;"カナダ軍 第一波 開始!";;
+"S01SAPhseB";"9b590ddd:42dcd5e9:db7741a7:af2fbd3c";"-dlc2";;"カナダ軍 第二波 開始!";;
+"S01SAPhseC";"b0c3c2da:48a7c5b5:64355d83:559d4da4";"-dlc2";;"ドイツ軍増援 到着!";;
+"S01Sandbox";"6845abef:4a48c32f:e23f2fbd:08512ceb";"-dlc2";;"BURON - SANDBOX";;
+"S01Vict";"8deaa475:42de6e3f:baf86b9a:fe277bbc";"----dlc2";;"\n\nCongratulations !\n\WIP:\n\n  * WIP\n  * WIP";;
+"S02";"502e8364:4f22eeb0:33880297:58f7b7ab";"--------dlc2";;"血のブロン 戦果";;
+"S02Cheux";"1402b3b4:44bcb7ae:738ab799:a68d6bd2";"---dlc2";;"シュー(CHEUX) - SCENARIO";;
+"S02Desc";"8402c5e0:4bdf68b6:67ab8785:b581e4cb";"----dlc2";;"\n\nモンティは,全軍を挙げての攻撃のみがカーンを防衛するドイツ軍を突破する唯一の方法であると悟った.彼はチャーンウッド作戦と呼ばれる,３個歩兵師団による攻撃作戦を計画する.貴官の第3カナダ師団はブロンを攻撃し,奪取し,維持したのちに近辺の高地に向かって進軍する.\n\nブロン - Buron - D-ディ後,カナダ軍ノースノバの手に落ち,強力な反攻作戦にも持ちこたえたにも関わらず、夜のうちにあっさりと放棄された村.Buron - それ以来ドイツ軍の手中にある村.Buron - この一ヶ月間毎日,部下が見続けている村.Buron - 昼も夜も,”地獄の一角”のあなたを砲撃し続けている村.Buron - ”ヒトラーユーゲント”師団によって,少しづつ少しずつ要塞化された村.Buron - 憎き村! ヒトラーユーゲントの奴らに,貴官の多くの戦友が死ぬか,英国病院送りにされた村.噂によると,この師団は17人もの戦時捕虜から銃を取り上げ殺したらしい.なぜ貴官の大隊兵が,これほどいきり立って,戦う準備ができているか,貴官は理解するだろう.\n\n良い情報だ,とりわけ敵が抱えている障害について.明らかに全体が地雷原と塹壕のネットワークで組まれている,もっとも悪い事は,村の北にある二つの大きな対戦車壕だ.敵の気質は非常によく知られている.ノースノバスは三日前に,鳥のように歌っている３人のSSの戦時捕虜をとった.彼らが言うには,村の周りには第25装甲擲弾兵連隊の２個中隊がいる.ここ24時間で,航空機の活動は上昇していて,昨夜は敵の位置を叩く爆撃機の音が鳴り響いていた.これにより士気が500%上昇し,兵はブロンで敵と遭遇できるか?気を揉んでいる.\n\n今,貴方は時計を見ている,しかし,その必要は無いようだ.貴官の背後にある100門以上の砲が,0730を告げているからだ.部隊のバグパイプ隊が叫び,バグパイプの笛の音が空間を満たす\n\n貴官の部隊はブロンは占領し維持せよ";;
+"S02Fail";"9f890c19:4034beb2:b001bda1:cd08a612";"----dlc2";;"\n\nTry again !\n\WIP:\n\n  * WIP\n  * WIP";;
+"S02Vict";"379e722a:444b1a47:c2b405a6:d05c8b8c";"----dlc2";;"\n\nCongratulations !\n\WIP:\n\n  * WIP\n  * WIP";;
+"S03SteMreE";"313e40b7:461946dd:23ebe78d:940ffcbe";"-dlc2";;"SAINTE-MERE-EGLISE - SCENARIO";;
+"S04Carpt";"a74fe90a:49955e16:98a003b7:63beab3d";"---dlc2";;"カルピケ(CARPIQUET) - SCENARIO";;
+"S05ColblD";"9258dc6b:409b3af1:2d885190:8b75c073";"--dlc2";;"WIP WIP WIP";;
+"SCE01HD";"82ac52d7:4d682d13:b70948bd:a952126c";"----dlc2";;"ブロン, 1944年6月8日";;
+"SCE01HG";"8b6f8395:4e9b437f:46d2b7b0:dd788176";"----dlc2";;"ハイプトマン フリッツ シュテーガー\n第３大隊指揮官\n第25装甲擲弾兵連隊";;
+"SCE02HD";"b1b582f3:4bdd78e6:923ed5ae:1ebbe373";"----dlc2";;"ブロン, 1944年6月8日";;
+"SCE02HG";"8d025d20:41ac48a8:7e4dd5bc:5bdb19b0";"----dlc2";;"フランクリン M.グリフィス\nカナダ軍ハイランド軽歩兵部隊中佐\n第9ハイランド大隊";;
+"SCEN";"0f04a094:4d9cc905:fbcb6db8:44e91c07";"-----------";;"突破口";;
+"SCENAR01";"9f3ee1c6:47861e0e:4519f9b5:05e9404f";"---dlc2";;"\n\n\n\n\nブロン 最後の抵抗\n--------------------------------\n\n\n";;
+"SCENAR02";"cec3e47d:4a660e3e:1ed86cb4:720f0ad2";"---dlc2";;"\n\n\n\n\n血のブロン 戦果\n--------------------------------\n\n\n";;
+
 "SFA1CheuxL";"a99be517:418f8687:7f70b5aa:6b919485";"---";;"シューへの攻勢 (連合国 攻撃) #1vs1";;
 "SFA1CheuxX";"ad909029:47f6b49d:db43ee8b:80454b3e";"---";;"シューへの攻勢 (枢軸国 攻撃) #1vs1";;
 "SFA1ColblL";"3564c2b6:488045af:c6c690bf:6a4b1eca";"---";;"コロンベル製鋼所 (連合国 攻撃) #1vs1";;
@@ -1648,6 +1781,11 @@
 "SFAText";"3dd15cd0:4f8d0ed1:a7f13bb3:da16f705";"---";;"攻撃側は,わずか地域しか支配下においていない状況下で,極端な被害(マップ上の支配地域の損失も10%以下)を抑えつつ,作戦目標を奪取します。\n\n防御側は,マップの殆どを支配下に置いています.防御側は作戦目標を支配下に置かねばならず,攻撃側に十分な損失を与えなければなりません(破壊ポイントによって).";;
 "SFATextM";"09de30dc:4a033db5:bb685996:ffaea24c";"---";;"攻撃側は,わずか地域しか支配下においていない状況下で,極端な被害(マップ上の支配地域の損失も10%以下)を抑えつつ,作戦目標を奪取します。\n\n防御側は,マップの殆どを支配下に置いています.防御側は作戦目標を支配下に置かねばならず,攻撃側に十分な損失を与えなければなりません(破壊ポイントによって).";;
 "SFATitle";"81e97442:42b2d919:a60d199f:21850f88";"---";;"交戦 規則\n--------------------------------\n";;
+
+"SPHB_OBJ";"e1dfb284:4cb78cca:c9258b92:11491fae";"---";;"- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.";;
+"SPHB_OBJA";"d7313785:4e0e7e18:c7ae7f9d:58deef5e";"---";;"- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.\n\n- #Arialbold{Allied} player(s) loses if sustaining too many casualties.";;
+"SPHB_OBJG";"277dbb93:47dc34f2:53bbafa3:6c610311";"---";;"- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.\n\n- #Arialbold{German} player(s) loses if sustaining too many casualties.";;
+
 "T01DHD";"707d73b0:4a9d0d01:e39900ae:f9e9051b";"---";;"ブートキャンプ, 1944年4月12日";;
 "T01US";"3a1c69af:4dc1ca0c:1e5ba68d:006d89a0";"---";;"教練 1: 配置 & 機動";;
 "T01USDesc";"940acef5:4969b6c1:6fb7be8c:2a38a191";"---";;"この教練では,戦闘集団の組成と,戦場での基本的機動に焦点をあてる.\n教練科目:\n\n  * 戦闘集団の組立\n  * 初期配置 フェイズ\n  * 戦闘準備\n  * 部隊輸送 & 降車方法";;
@@ -1757,6 +1895,7 @@
 "KD_UNLDFT";"7b7fdb86:48ec0c5e:bcc83199:8d904eb0";"---";;"乗車ユニットをただちに降車させる";;
 "KD_SMOKE";"bc758f04:4e9cf509:ce5a2f91:95f0efb5";"---";;"目標地点(視程外でも可)に煙幕を張る";;
 "KD_RVRSE";"0546ce73:45b5ab06:f013c099:c5ebce0e";"---";;"目標地点に向けて後進移動する";;
+"KD_SAEVENT";"bd802c50:4097717e:a631989b:d66ecd46";"---";;"気づかなかった最後のイベントにカメラを移動させる";;
 "KD_EVAC";"2a46b460:466f4359:be34f498:82265d65";"---";;"航空機を基地に向けて離脱させる";;
 "KD_CALART";"c489a016:459be319:c70a3f97:2916d762";"---";;"連携している砲兵に砲撃させる";;
 "KD_RETREAT";"4044cd5e:481c01e0:12590493:53b6838b";"---";;"釘付けされている部隊を敵から退却させる";;
@@ -1785,6 +1924,7 @@
 "KN_UNLDFT";"d0e26d58:4da956b1:62ab13be:b79213e8";"---";;"降車";;
 "KN_SMOKE";"9f16da6f:48653464:d3b514ac:a8b93b2c";"---";;"目標地点に煙幕";;
 "KN_RVRSE";"b702309d:4a40c688:b2dee18c:4f50201b";"---";;"後進";;
+"KN_SAEVENT";"0ab9c1c7:4b664fc4:5a5dc491:258e5882";"---";;"気づかなかった最後のイベントにカメラを移動させる";;
 "KN_EVAC";"bcc794a6:489118c6:770b758d:a37f682b";"---";;"離脱";;
 "KN_CALART";"c6a58ae9:4bf83fbb:074aa19d:a4f9976f";"---";;"砲撃要請";;
 "KN_RETREAT";"a09c0528:47d14e22:de4e1f92:5b3c8d16";"---";;"退却";;
@@ -1854,6 +1994,19 @@
 "CRITIC7";"d64775fe:482917ee:c27c25b1:1edf5645";"---";;"履帯 破損";;
 "CRITIC8";"5937f0b4:4ec45b43:6086ce86:cbe876e6";"---";;"砲手 気絶";;
 "CRITIC9";"d4a5f9de:4a0f8cfa:3980e384:78991286";"---";;"操縦手 気絶";;
+
+"DES11AD";"441acfee:44a7c4b3:11c93598:6b18f6c4";"-------dlc2";;"Description 11th AD";;
+"DES1SS";"0a6f5533:4582ff74:8c75bba3:a3902ce3";"--------dlc2";;"Description LAH";;
+"DES227thIB";"1fb96da1:4999e4a6:1b849bb4:2cf8411c";"----dlc2";;"Description 227th Infantry Brigade operation Bluecoat";;
+"DES2CAB";"d9f5dd5e:4b247346:f4fdb087:12aa37cb";"-------dlc2";;"Description 2nd CAB";;
+"DES2SSK";"b1128951:47281536:7528819b:3b3004fc";"-------dlc2";;"Description II. SS-Pz-K";;
+"DES2ndRgr";"0950e766:4610ecab:19dd268d:d00f3cd7";"-----dlc2";;"Description 2nd Ranger Bat Pointe du Hoc";;
+"DES326InfA";"5aead222:47e83a33:d6a45196:43cad9e8";"----dlc2";;"Description 326. Infanterie Division deck A operation Bluecoat";;
+"DES326InfB";"67b6050a:4e358f45:b61b81a6:174013c6";"----dlc2";;"Description 326. Infanterie Division deck B operation Bluecoat";;
+"DES4CAD";"88a142c6:451a1e6a:4b739887:daf7956d";"-------dlc2";;"Description 4th CAD";;
+"DES6thGTB";"fb2aa92b:468c101c:54a71494:9fe25d5d";"-----dlc2";;"Description 6th Guard Tank Brigade operation Bluecoat";;
+"DES90ID";"86d03c88:4dc83048:126a7c99:03fcaa3d";"-------dlc2";;"Description 90th ID";;
+
 "DESCAN3inf";"42c33768:49193f3a:8ff641a3:58cd25fd";"---";;"強力なドイツ軍による抵抗の真正面にあったため猛烈な戦闘が行われたユタ海岸,第3カナダ歩兵師団は唯一D-Day作戦目標の全てを達成でき,その日,かろうじて他のどの師団よりも奥地に侵攻できた. 第一次世界大戦時の,彼らの祖先の評判通りに,カナダ軍歩兵部隊は,敵から「大英帝国の突撃隊員」として敬意を払われた.";;
 "DESFR2arm";"";"---";;"自由フランス軍は,もともと自分の土地で戦うことを熱望していたので,彼らの首都を解放する名誉を得るため,損失に関わらずパリに向かう競争した.";;
 "DESGR116pz";"8bcc01b7:4e9486a5:22aca0aa:0cfc7ee4";"---";;"第116装甲師団は,東部戦線の残存兵と予備役を寄せ集めてD-Dayのわずか3ヶ月前に編成された混成団だった. たとえ,新型戦車での訓練と経験が足りていなくとも,第116師団は他の装甲師団とは異なり,より古い,より軽いモデルのいくつかを保持することができたという特殊事情を持っていた.";;
@@ -1871,17 +2024,33 @@
 "DESGRLehr";"b585e783:463dfc95:5aa70190:1e3112ef";"---";;"パンツァーレーアは教導師団として編成され,ほとんどの隊員は教官か経験豊かな熟練兵だった.第三帝国で最も優秀な装甲師団のひとつで,パンツァーレーアは,最高の装備が与えられ,TigerやTigerIIさえも所有していた.";;
 "DESPOL1arm";"30cfc90e:44452222:27d6eb91:f934fb33";"---";;"彼らの復讐への欲望は揺るがず,自由ポーランド軍はカナダ第1軍の先駆けだった.彼らの精神にあった軽騎兵戦術を採用し,彼らはモン=オルメルまでドイツ軍を悩ませ,そこで彼らは,二つの軍の流れに立ち向かい,単独で彼らの地に立っていた.";;
 "DESUK15inf";"0e415a85:42c27453:6ed72aa9:478ca4db";"---";;"経験不足ではあるものの,第15歩兵師団は,多くのベテラン英軍部隊よりもノルマンディーで良くやった.チャーチル戦車に援護され,スコットランド兵は,恐怖の第12SS装甲師団を攻撃し後退させ,ドイツ軍の貴重な装甲ユニットを,いくつか我々に向かわせるようにさせた.";;
+
+"DESUK3ID";"6fd299cf:4f4dca2f:c487a995:6183c029";"---";;"Description 3rd ID UK";;
+
 "DESUK6ab";"d1d83ee5:44dc0cd4:d5beba96:b60359fe";"---";;"最初にD-Dayに向けて作戦を始めた師団,第6空挺師団は侵攻向かって左翼を確保する任務だった.空挺部隊向けの重装備で,中型対戦車砲,軽戦車などはグライダーによって空輸された";;
 "DESUKguard";"664364ef:448b8db3:e7a1af95:fa73d7f2";"---";;"王の兵士を意味する,近衛師団は最高の装備を与えられた.ノルマンディでは,とても状態の良いドイツ軍と対峙し,近衛師団は,恐ろしい程の損害を被ったが,タイガーIIと交戦し,これを初めて破った連合国部隊でもあった.";;
 "DESUS101ab";"be787da4:41bded5e:205c8990:1b11f77d";"---";;"米軍の空挺兵はコタンタンを越えて,連合軍の右翼を確保し,ドイツ軍エリート降下兵やボカージュに紛れたSSの反撃を撃退した.  非常に軽装備な'Screaming Eagles'は,エリート歩兵の他に, 空軍の近接支援や,海軍の艦砲射撃などの緊密な支援を受けていた.";;
+
+"DESUS116IR";"7b3a2d29:4285406f:e53f5da9:d9203cba";"---";;"Description 29th ID";;
+"DESUS1inf";"a2187ebe:4ce48c87:110c67b7:43bb6378";"----";;"[DESCRIPTION BIG RED ONE]";;
+
 "DESUS2inf";"0b9dbcc4:43a6af14:7d9cf4a4:28e187c1";"---";;"D-Day+1に上陸した'Indianhead'は,ボカージュの国とサン・ローの遺跡を抜け,コブラ作戦を戦った. ブレストの戦いにおいて第2歩兵師団は,米軍で初めてキシロフォンロケットランチャーを使用した部隊だった.";;
 "DESUS3arm";"9b16339e:4e92eb22:74fba39f:451b1bda";"---";;"何週間も'hedgerow hell'で苦しめられ サン・ローでは苦しい戦いを強いられたが,ついにコブラ作戦で'Spearhead'は,なだらかに起伏する国へ突入した. それ以来,ニックネームどおり,第3機甲師団は,セーヌ川へのレースに参加し,その過程で数万のドイツ軍を捕らえた.";;
 "DES_101AB";"a998159e:420d279e:1de10e90:5960850a";"---";;"第101空挺師団は,主に強力で汎用性のある歩兵に頼っていて,幾つかの野砲と,M22軽戦車でしか支援されていない,フェーズAでは最善を尽くす事ができる.\nフェーズCのM10駆逐戦車が陸揚げされるまでは対戦車装備が限られており,フェーズBでは,戦線を維持する神経と両方のスキルが要求されるだろう.";;
 "DES_101AE";"25244a7b:49227d85:b1a0ecaf:6ea06848";"---";;"多くの空挺師団ユニットは(翼のアイコンがついている)は包囲されない事を覚えておけ.";;
 "DES_101AT";"6e7fed79:43ff559b:720b60ab:2c282ab1";"---";;"THE EAGLE";;
+
+"DES_116IB";"206e1e4b:4ba46f19:82f8ba95:2dbb401b";"---";;"Hint entete description 116th Infantry Regiment";;
+"DES_116IE";"6b1dd244:410f3aeb:87a0d2b9:bfcbd66e";"---";;"Hint etendu description 116th Infantry Regiment";;
+"DES_116IT";"9f9db1dc:4567bf7b:18ecec82:0e8839db";"---";;"Surnom 116th Infantry Regiment";;
+
 "DES_116PB";"dd66e365:4290fee5:55271c96:c4c92fec";"---";;"そのグレイハウンドの紋章どおり,第116装甲師団は,高速軽量車両と軽戦車を持っている為,フェーズAではとても強力な師団である\nその後,フェーズBでは,Ⅳ号戦車,Ⅳ号突撃砲と徐々に火力が上がり,フェイズCでパンターが登場する.";;
 "DES_116PE";"9ac0d6b5:4ac30600:1d82cd9e:5ebef742";"---";;"歩兵は非常に高価で,第116装甲師団は人的消耗戦を避けた方が良い,そこで敵前線に風穴を開けるためには,良好な砲兵に頼ることになる.";;
 "DES_116PT";"235f2c94:4c857979:b7135995:91cbdc20";"---";;"THE SPRINTER";;
+
+"DES_11ADB";"10b88eab:48bf403e:9648c6bc:7bf543b6";"---";;"11th AD was maybe the most aggressive British armored division in Normandy, spearheading the charge toward Hill 112 during Operation Espom, and the race toward Bourguebus Ridge during Operation Charnwood.";;
+"DES_11ADT";"d9216836:4b098d08:4ac45ca4:5243f6db";"---";;"THE BULLY";;
+
 "DES_12SSB";"f2fdabd5:4f7a58b2:b67c9eab:608d56f4";"---";;"フェーズAの第12SS装甲師団は手を焼く事になる,わずかな軽戦車と鹵獲した英国戦車(クロムウェルとファイアーフライ)に頼らざるを得ない.\nしかし,フェーズBから進むにつれて,パンター,自走砲,FlaKと徐々に強力なっていくので,戦線を押し返し始めることが可能となる.";;
 "DES_12SST";"acc77024:458b01e6:9ca60e86:960b97c9";"---";;"THE SERENE";;
 "DES_15UKB";"9d967cf1:4faa58f4:2837139d:a7c7d232";"---";;"尽きることが無いよう見える安価なベテラン歩兵には,フェーズAでは支援部隊が足りない.\nしかし,フェーズBではWW1スタイルの大規模な砲兵や戦車が,その最善を尽くして強力になっていく.しかしながら機動性の欠如が妨げになる.\nフェイズCになると顕著になり,特に抱えている17ポンド砲は,最高の対戦車兵器となる.";;
@@ -1890,6 +2059,10 @@
 "DES_16LWT";"8e726cb0:4d0e40c8:26e3e293:350874d6";"dlc";;"THE SPARROWHAWK";;
 "DES_17SSB";"5c665481:49a513b8:9e6c29ad:20871662";"---";;"軽装備であるにも関わらず,17SSは盤外砲撃を含む砲兵によって支えられた豊富な歩兵によって,フェーズAでは牙を剥くことができる.\nフェーズB,Cと進んでも,攻撃力は,それほど良くはならない一方で,守備力は大幅に向上する.";;
 "DES_17SST";"fbe404b0:43cd3ab2:bc5a6093:931d41eb";"---";;"THE ANVIL";;
+
+"DES_1IDB";"a0a35a42:46adc806:cf2f2b95:b08226e7";"---";;"Being one of the few interwar active division of the US Army, entirely composed of volunteer professionnals, the 1st ID was among the very first units sent to Europe to take part in the war against the Germans & Italians when the USA entered the war. BRO fought in every theater the Americans were engaged in Europe?: Algeria, Tunisia, Sicily, France, Belgium, Germany & Czechoslovakia. Aliongside the 34th Infantry Division, there isn't a more experienced American division on the ETO.";;
+"DES_1IDT";"37d3c526:4c756edc:2cdc5888:b4884d3b";"---";;"BRO-FORCE";;
+
 "DES_1POLB";"4ddf2f36:4b694d4e:37d1c29d:c4785a41";"---";;"ポーランド軍は,フェイズAからアキレス駆逐戦車や航空支援を含む出来る事全てを解き放てば,直ぐに強い相手と取っ組み合えるだろう.\nしかしこれは高価であると共に,フェイズB,Cのハイエンド装備では,生存性が足りない.";;
 "DES_1POLT";"9d5a2c4d:4e2abaf3:d47882ba:4d2c461a";"---";;"THE VENGEFUL";;
 "DES_21PZB";"78b4fcc5:458328bf:f82cffbb:0ba02a69";"---";;"第21装甲師団は軽機甲部隊で,多くのフランス製戦車や,カスタムメイドの車両など,フェイズAでは非常に強い.\nしかしフェイズBで巻き返されるが,フェーズCでは,Konigstiger(TigerII)の登場を非常に歓迎できる."
