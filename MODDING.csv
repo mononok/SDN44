@@ -2,6 +2,10 @@
 
 "xxxx7";"-BRIEFING.csv-----------------------------------------------------------";"---";;"";;
 
+"GER_FIN_01";"d867d343:48550e4d:2ac8a8a9:d4d1c007";"---";;"アングロ-カナダ人達は再び乗船し始めている.ダンケルクの再来だ!";;
+"GER_FIN_02";"805b5aff:4133c692:e11a63ae:e1cd1088";"---";;"アメリカ人達はオマハで手酷く打ちのめされた,";;
+"GER_FIN_03";"43287583:40c70e8f:489d15a1:88d1bf64";"---";;"コタンタン半島に僅かに残った降下兵達も掃討される.";;
+"GER_FIN_04";"931363b6:4baa1f1f:7aeca1ba:354ea28c";"---";;"連合国軍の大西洋の壁を打ち破る侵攻は失敗に終わった!";;
 "GER_M01_01";"cfc63894:46a2c79b:00153fb2:0b8d80d4";"---";;"6月6日の朝,待ちかねたアングロ-アメリカンのフランスへの攻勢がついに始まった.";;
 "GER_M01_02";"a6cee718:4905e99d:9f559794:0a8ba069";"---";;"スターリンの注文によって,急き立てられた西部戦線連合国はノルマンディの戦いに全戦力を投入し";;
 "GER_M01_03";"6edfee9d:4a6f550b:9ae954a4:0f6ba8a8";"---";;"我ら難攻不落の大西洋の壁にぶつかってきた.";;
@@ -108,8 +112,8 @@
 
 "UK_FIN_01";"2361bba0:4a1b2742:3e56e19b:a289f2a9";"---";;"112高地は我々のものだ,我らが支払った代償に価値があることを願おう.";;
 "UK_FIN_02";"9ec744eb:43a0a723:241006a2:69c9a5ff";"---";;"ドイツ軍はもうこれ以上カーン周辺を支配することは出来なくなるだろう.";;
-"UK_FIN_03";"c6b0c61b:410850bb:b85857ae:d046204d";"---";;"ついに開けた地に足を踏み入れた:"
-"UK_FIN_04";"5aaf8c45:4fa8e5d1:51813a8e:19e0517e";"---";;"機甲師団を解き放つ時が来た."
+"UK_FIN_03";"c6b0c61b:410850bb:b85857ae:d046204d";"---";;"ついに開けた地に足を踏み入れた:";;
+"UK_FIN_04";"5aaf8c45:4fa8e5d1:51813a8e:19e0517e";"---";;"機甲師団を解き放つ時が来た.";;
 
 "UK_M01_01";"d3ded904:4abd8710:45e43eba:47400a4c";"---";;"6月6日,ダンケルクの後から丸4年";;
 "UK_M01_02";"5277b4d9:4e0518de:9bf726b6:7c82ccf3";"---";;"我らはフランスの地に戻った.";;
@@ -202,12 +206,16 @@
 "UK_M04_18";"62dcdc5d:49ff8bb1:da42bc9a:e8160e46";"---";;"丘の頂上では,やつらが投入してくる敵部隊を追い払う準備が出来ている必要があり";;
 "UK_M04_19";"da401be4:45bdabf1:a9535188:3eefab0a";"---";;"彼らの反撃は確実にやって来る…";;
 
+"US_FIN_01";"44a653a9:4c67649d:d132e0a1:358b8e41";"---";;"第101空挺師団との連携はなされ,海岸線から機甲師団が殺到し始めている.";;
+"US_FIN_02";"b532b370:47992524:a63e71b7:c7df6e68";"---";;"橋頭堡はいま確保された.攻勢をかける時だ.";;
+"US_FIN_03";"a67eb06f:45af838e:0f078294:d59a195c";"---";;"次の目標はシェルブール.";;
+
 "US_M01_01";"19fadd4c:4bf316ba:9a34eb95:da3842d9";"---";;"昨晩,アメリカと連合国の空挺部隊は,それぞれの機体に搭乗し";;
-"US_M01_02";"07880c7f:46bff56c:b51a0783:ff381aea";"---";;"それから フランスに向かって飛び立って行った.";;
-"US_M01_03";"c0f5401b:44fd387e:e7901faf:b1a13646";"---";;"夜半過ぎ 間もなく,ドイツ軍の防空部隊が守っているにも関わらず,";;
-"US_M01_04";"39853ae2:49fddc1c:15a0dc9e:abbfa3a9";"---";;"我々部下達は,ノルマンディで敵の背後の土を踏む.";;
+"US_M01_02";"07880c7f:46bff56c:b51a0783:ff381aea";"---";;"そのあと フランスに向かって飛び立って行った.";;
+"US_M01_03";"c0f5401b:44fd387e:e7901faf:b1a13646";"---";;"夜半過ぎ 間もなく ドイツ軍の防空守備隊がいるにも関わらず,";;
+"US_M01_04";"39853ae2:49fddc1c:15a0dc9e:abbfa3a9";"---";;"我々の兵達は ノルマンディの地で 敵の背後に降り立つ.";;
 "US_M01_05";"463cbc1e:45327c0d:403dde8c:0bb8cf96";"---";;"その一方,夜明けには集結した大艦隊が砲火の口火を切り";;
-"US_M01_06";"9905bc3b:49cc4b9a:4c256198:f51e13f1";"---";;"フランスの海岸に部隊を上陸させるべく先へ進んだ.";;
+"US_M01_06";"9905bc3b:49cc4b9a:4c256198:f51e13f1";"---";;"フランスの海岸に部隊を上陸させるべく先へと進んだ.";;
 "US_M01_07";"b426dcfa:45955333:199698bd:cad6ce11";"---";;"ヨーロッパの解放は我々が言うように進行中である.";;
 "US_M01_08";"be2df29f:4fa06c19:5d728ab5:2f6da897";"---";;"双方の空挺師団はコタンタン半島全域に,４つの風となって吹きつけている.";;
 "US_M01_09";"7da0c4f2:471c51e7:c3735e81:1334f2c5";"---";;"希望を持とう,我々は計画通りにドイツを混乱させている.";;
@@ -900,6 +908,9 @@
 "DIVINCOMB";"d96a9d83:46258441:07bc4c83:4f5bfa29";"---";;"フェイズ開始時に手にする事ができるポイントを示す．";;
 "DIVINCOME";"add766aa:4120b46c:bcc9fcaa:687bb5a8";"---";;"最初の番号は,フェイズAで,この戦闘集団が10秒毎に受け取る徴発ポイントを指す.二つ目はフェイズB,三つ目は(最終)フェイズC\nアンダースコアで表示されている数値は継続して入るポイントを示す.";;
 "DIVINCOMT";"4605761c:453df084:d5870a9d:1f18e7c5";"---";;"ポイント収入";;
+"DIVINCOPB";"70ebd2e6:473407c0:de736383:01931ebc";"---";;"異なる戦闘ファイズの最初に手にする事ができるポイントを示す.";;
+"DIVINCOPE";"5239d8b3:4b82fc97:f8a9f18d:2d113e09";"---";;"最初の番号は,フェイズAの最初に受け取る徴発ポイントを指す.二つ目はフェイズBの最初,三つ目は(最終)フェイズCの最初.";;
+"DIVINCOPT";"3a139050:4de950b4:5ac05c90:328f13a5";"---";;"師団 収入";;
 "DIVSEL_DSC";"7a4a9f7c:4ce32a05:b254239c:a0905d5c";"---";;"説明";;
 "DIVSEL_NAM";"e11b46c1:478bfec9:d30607b2:6ee3d0fb";"---";;"名称";;
 "DI_DCKCOP";"13186c30:463b8794:4581a8a1:c8592678";"---";;"戦闘集団はクリップボードにコピーされました";;
@@ -1036,7 +1047,6 @@
 "HISTO_LIST";"3807aa28:4c8d8fc9:5835a9b7:9cb12241";"---";;"シナリオ";;
 "HUB_NEWCON";"316c5c7b:40477f74:b564329f:c7ff9745";"---";;"? 新登場";;
 
-
 "HB01_DATE";"e0d33002:4bd67b1a:b7576a82:eed83488";"----dlc2";;"#Arialbold{June 12th, 1944}";;
 "HB01_HIOUT";"be3dea79:47516d4a:1bbe14b6:2df858e5";"---dlc2";;"Although they lost #Arialbold{Caumont-l'Evente} quickly to the Big Red One, 2. Panzer's scouts managed to hide their weakness. Screening the gap behind them, they held La Londe long enough for reinforcements to arrive, preventing the Americans from tearing the German front apart before the Normandy campaign even really started.\n\nLa Londe would therefore remain in German hands for almost two more months, only being liberated by the British army during #Arialbold{Operation Bluecoat}.\n\nHow did #Arialbold{YOU} fare??";;
 "HB01_MAP";"4d76a3ee:499a530b:353fa483:f12fe815";"-----dlc2";;"#Arialbold{Caumont-l'Evente}";;
@@ -1055,13 +1065,13 @@
 "HB03_SCEOB";"abc7143b:48bd4d0e:cda5d1b0:182b3474";"---dlc2";;"#Arialbold{CANADIANS}:\n\n- #Arialbold{Hold} as much of the three #Arialbold{crossroads} within #Arialbold{Carpiquet village} as you can.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Capture} as much of the three #Arialbold{crossroads} within #Arialbold{Carpiquet village} as you can.";;
 "HB03_SCEOF";"8ef8948e:4022b090:62ebe493:686da2fe";"---dlc2";;"#Arialbold{CANADIANS}:\n\n#Arialbold{Regiment de la Chaudiere}: the Quebeckers holding Carpiquet village initially only have riflemen, Vickers HMG, mortars and light AT weapons (PIAT & 6-pdr) to hold the Panthers at bay. By chance, a pair of Wolverines was also present. But it would have to do until the cavalry, in the form of the 2nd Canadian Armoured Brigade's Shermans and RACF's Typhoon, arrive later in the day.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{Kampfgruppe Weidenhaupt}: this 1. SS-Panzerdivision's battlegroup is built around III./1. SS-Panzergrenadier-Regiment reinforced with about twenty Panther tanks and some support elements from 12. SS-Panzerdivision. Even the Luftwaffe has contributed to this major counter-attack, providing a few fighters to cover the operation?!";;
 "HB03_SCEPR";"c55d0137:4c4a36da:8f3b6aa5:7bb54010";"---dlc2";;"#Arialbold{Dawn of the Panthers} covers follow-up battle for Carpiquet in the wake of #Arialbold{Operation Windsor}, two days earlier.\n\nWhile the Canadians had captured the village of Carpiquet and the hangars of the airfield, they had failed to secure the control building.  But 12. SS-Panzerdivision's commander Kurt Meyer wasn't a man to content himself with a partial defensive victory, or defeat: the next day, he scrapped together whatever units he could muster and launched counter-attacks after counter-attacks to recapture the lost positions. To no avail.\n\nBut at dawn on July 6th, the Quebeckers holding Carpiquet village are faced not only with their young SS Nemesis, but also about two dozens of Panthers from 1. SS-Panzerdivision called in support!";;
-"HB04_DATE";"05d1c18c:47e686b8:f2b0739c:48b24d29";"----dlc2";;"#Arialbold{July 18th, 1944}";;
 
-"HB04_HIOUT";"de874413:445fcf2d:8557eb8e:2ee458d6";"---dlc2";;"Briefly liberated but quickly abandoned twice on June 6th & 7th, #Arialbold{Escoville} had to wait for #Arialbold{Operation Atlantic} to be liberated almost without a fight on the wake of the preliminary barrage.\n\nThe Canadians had been ordered to secure Colombelles village and its #Arialbold{steelworks} (or the ruins of it) at all cost … and so they did. Despite heavy casualties, they secured the village at 5 PM, while another battalion entered the steelworks just before dusk: the hunt for German snipers and isolated pockets of resistance went on all night, but the #Arialbold{steelworks} was definitively in Canadian hands the next morning.\n\nThe Northern outskirts of #Arialbold{Giberville} were captured by the Canadians, but had to be abandoned in the face of an incoming Allied barrage, before being reoccupied later. By the end of the day, only part of the village was really secured.\n\nHow did #Arialbold{YOU} fare??";;
-"HB04_MAP";"c6659149:4be76253:1f5a1bb2:f420bd2f";"-----dlc2";;"#Arialbold{Colombelles}";;
-"HB04_SCEOB";"73aea10a:456d0a65:54cc27a7:5f3aaad9";"---dlc2";;"#Arialbold{ALLIES}:\n\n- #Arialbold{Capture} the #Arialbold{steelworks} and the villages of #Arialbold{Escoville} & #Arialbold{Giberville} to open the way to the Bourguebus Ridge to the British armored divisions.\n\n- Avoid excessive casualties.\n\n\n#Arialbold{GERMANS}:\n\n- #Arialbold{Hold} or #Arialbold{recapture} the #Arialbold{steelworks} and the villages of #Arialbold{Escoville} & #Arialbold{Giberville} to foil Operation Goodwood.\n\n- Inflict enough casualties to break the Canadian moral.";;
-"HB04_SCEOF";"be9538de:4e5865f8:24a702b1:ad27fb1c";"---dlc2";;"#Arialbold{CANADIANS}:\n\n#Arialbold{3rd Canadian Infantry Division}: attacking Colombelles village & steelworks with one brigade in front, 3rd CID relies mostly on riflemen, Vickers HMG, mortars and light AT guns, with plenty of fighter-bombers in support. But with only a dozen Shermans, it will have to rely a lot on its British counterpart to deal with any serious armored threat.\n\n#Arialbold{11th Armoured Division}: the ≪?Black Bull?≫ fields plenty of Cromwell, Shermans & Firefly and lead charges in tank country. Unfortunately, with its already few motor infantry delayed in the rear, it lacks most means to deal with villages and wooded area. Bypassing them or cooperating closely with the Canadian infantry will be the key to advancing.\n\n\n#Arialbold{GERMANS}:\n\n#Arialbold{16. Luftwaffe-Felddivision}: the disheartened Luftwaffe infantry is no match for the Canadians, but they have ample MG and Flak guns to support them and clear the sky over their head. But with only a few medium anti-tank guns and only two StuGs of its own, it will have to rely on its counterpart to deal with major armored threat …  or wait for the heavy tanks from s.Panzer-Abteilung 503 later in the day.\n\n#Arialbold{21. Panzer}: KG von Luck is a well-balanced armored battlegroup composed of armored infantry & artillery, Panzer IV, assault guns and tank destroyers. Its main weaknesses lie with its modest air defense capacity, a defect its counterpart can compensate, and its limited amount of therefore precious infantry. Later in the day, its medium tanks are reinforced with some heavy ones from s.Panzer-Abteilung 503.";;
-"HB04_SCEPR";"b0ac7c5b:4ce18789:0670fb9e:11c67e5d";"---dlc2";;"#Arialbold{Operation Atlantic} covers the Canadian contribution to the larger British #Arialbold{Operation Goodwood}.\n\nThe objective was to secure the Bourguebus-Verrieres Ridge South of Caen to deny the Germans any chance of holding the city any longer: while British armored divisions were to charge in open country East of the Orne River, the Canadian infantry was to advance alongside the river, securing the tanks' right flank.\n\nBut from the start, things didn't go as planned, and the British armored divisions quickly went behind schedule, giving the Germans time to recover from the preliminary Allied bombardement and forcing 11th Armoured, the leading British armoured division, to leave its infantry behind to deal with pockets of resistance …";;
+"HB04_DATE";"05d1c18c:47e686b8:f2b0739c:48b24d29";"----dlc2";;"#Arialbold{1944年7月18日}";;
+"HB04_HIOUT";"de874413:445fcf2d:8557eb8e:2ee458d6";"---dlc2";;"6月6日,7日と村を簡単に解放したが,直ちに二度も放棄され,#Arialbold{エスコビル(Escoville)} は砲撃の痕が残るなか解放されるには #Arialbold{アトランティック作戦} 迄,待たなければならなかった.\n\nカナダ軍部隊は,コロンベル村とその#Arialbold{製鋼所}(もしくはその廃墟)を,あらゆる犠牲を払ってでも確保するよう命令を受けていた…そして彼らは実行に移した.重大な死傷者を出したにも関わらず,彼らは午後5時に村を確保し,他の部隊も夕暮れ前までに,製鋼所に入った: 夜中じゅう,ドイツ軍狙撃兵を追い,抵抗勢力を孤立化させ続け,翌朝 #Arialbold{製鋼所} は最終的にはカナダ軍の手中にあった.\n\n#Arialbold{ジベルヴィル(Giberville)}の北方郊外はカナダ軍によって占領されたが, 来るべき連合軍一斉射撃に面しているため,放棄されなければならなかった,後で再占領する前に.その日の終わりまでに,村の一部分だけが確保された.\n #Arialbold{貴官} ならどうしたか?";;
+"HB04_MAP";"c6659149:4be76253:1f5a1bb2:f420bd2f";"-----dlc2";;"#Arialbold{コロンベル(Colombelles)}";;
+"HB04_SCEOB";"73aea10a:456d0a65:54cc27a7:5f3aaad9";"---dlc2";;"#Arialbold{連合軍}:\n\n- #Arialbold{製鋼所}と #Arialbold{エスコビル(Escoville)} & #Arialbold{ジベルヴィル(Giberville)}を #Arialbold{占領}し,英国機甲師団のブルゲビュ稜線への道を開く.\n\n- 過大な死傷者を出してはならない.\n\n\n#Arialbold{ドイツ軍}:\n\n- #Arialbold{製鋼所} #Arialbold{エスコビル(Escoville)} & #Arialbold{ジベルヴィル(Giberville)} を #Arialbold{維持} もしくは #Arialbold{再占領} グッドウッド作戦を撃退せよ.\n\n- カナダ軍部隊の士気を崩壊させるに十分な損害を与えよ.";;
+"HB04_SCEOF";"be9538de:4e5865f8:24a702b1:ad27fb1c";"---dlc2";;"#Arialbold{カナダ軍}:\n\n#Arialbold{第3カナダ軍歩兵師団(CID)}: 旅団の先頭に立ち,コロンベル(Colombelles)村と,その製鋼所を攻撃せよ,第3CIDは,主にライフル兵,ビッカース重機関銃,迫撃砲,軽対戦車砲装備に重きを持ち,潤沢な戦闘爆撃機の支援も受けられる.しかしシャーマン戦車は1ダース程しか持たず,重装甲に対処するには,殆どの場合,英軍に頼る必要があります.\n\n#Arialbold{第11機甲師団}: ≪ Black Bull ≫ 豊富なクロムウェル,シャーマンとファイアーフライ,などを擁する.残念なことに,迫撃砲部隊はすでに後方に遅れており,村や森林などの地形に対処する能力が欠けているため,これらを迂回するか,カナダ軍歩兵部隊と密接に連携しあうことが,この侵攻作戦の鍵となるだろう. \n\n\n#Arialbold{ドイツ軍}:\n\n#Arialbold{第16空軍野戦師団}: 士気が低いルフトヴァッフェの歩兵部隊はカナダ軍部隊の足元にも及ばない,しかし彼らは,頭上の脅威を取り除くのに十分な機関銃と対空砲を持っている.しかし,わずかな対戦車砲と,２両の突撃砲戦車を装備しているのみなので,重装甲に対処するには寮軍次第となるか…,午後に来る第503重戦車大隊の到着を待つ必要があります.\n\n#Arialbold{第21装甲師団}: フォン・ルック少佐隷下のカンプフグルッペは,機械化歩兵と砲,4号戦車,野砲,駆逐戦車と良くバランスが取れている戦闘集団です.主な弱点は,寮軍が補うことができるが控えめな防空能力,そして貴重な限られた歩兵戦力です.その日の午後には,その中戦車部隊は,第503重戦車大隊から受ける重戦車に強化されます.";;
+"HB04_SCEPR";"b0ac7c5b:4ce18789:0670fb9e:11c67e5d";"---dlc2";;"#Arialbold{アトランティック作戦} とは,英軍が行ったより広範囲な #Arialbold{グッドウッド作戦} においてのカナダ軍が分担する部分をさす.\n\nもうこれ以上ドイツ軍に街を確保させないために,作戦目標はカーンの南にあるブルゲビュ(Bourguebus)-ヴェリエール(Verrieres)稜線を確保すること:これは英軍機甲師団がオルネ(Orne)川東岸の広原にむけ突撃し,カナダ軍歩兵部隊は,機甲師団の側面を守るために川沿いに進軍することだった.\n\nしかし,初めから計画通りに作戦は進まず,英国機甲師団の侵攻予定は直ちに遅れだした,ドイツ軍に,連合国空爆後からの体勢を整える機会を与えたことで,英国機甲師団を先導する第11機甲師団に,歩兵を後退させて抵抗への対処を余儀なくさせた…";;
 
 "HB05_DATE";"8931f9de:4358f843:3f4ecab7:c55d4b84";"----dlc2";;"#Arialbold{August 21st, 1944}";;
 "HB05_HIOUT";"7764a885:4aaecead:c4b93a85:8c59956c";"---dlc2";;"Desperate to break out, the trapped Germans hurled themselves at the Polish battlegroup: settling centuries-old scores, the two opponents knew better than to ask (or grant) quarters to their bitter enemies.\n\nThe German tide was so overwhelming that it enveloped the Polish position on top of #Arialbold{Mont Ormel}, reducing it to almost nothing … yet the Poles kept fighting.\n\nWhen the Poles finally ran out of ammunition, they had to fight off the remaining waves with rifle butts or knives. Dead enemies were found mixed together in the same trenches, and German corpses had to be removed from the top of Polish tanks they had been climbing on to take them out hand to hand.\n\nMeanwhile, the American 90th Infantry Division and Polish battlegroup Zgorzelski were fighting to hold #Arialbold{Chambois}, sealing the Southern part of the pocket and preventing most germans from escapaing, all the while trying to extend a hand toward the trapped Poles on Mont Ormel.\n\nAlready fighting in #Arialbold{Saint-Lambert} to seal the Northern part of the pocket, 4th Canadian Armoured Division was both too weak and too late to completely seal the Northern route, allowing many Germans to escape to freedom. Yet, Canadian heavy artillery, masterly directed from inside the Polish positions by #Arialbold{Captain Sevigny}, proved essential to the survival of the defenders.\n\nFinally, the attack from outside the pocket by elements from II. SS-Panzer-Korps failed to crack the Polish position, but manage to help to create a corridor in the Northern part of the battlefield through which several thousand German soldiers, including commander-in-chief #Arialbold{Paul Hausser}, managed to escape the trap.\n\nHow did #Arialbold{YOU} fare??";;
@@ -1667,42 +1677,56 @@
 "Brea_Vill6";"041bba19:4c2a3a6d:25cce5b5:b0d8e318";"---";;"GRAINVILLE-SUR-ODON";;
 "Brea_Vill7";"f4460140:421b7036:660d8998:ab525047";"---";;"RAURAY";;
 "BreakText";"55c88897:4b3230e9:92d79589:7b4ac690";"---";;"プレイヤーは幾つか固有の師団から,このモードに合う戦闘群を作る事ができます、ここで作った戦闘群は他のモードとは互換性はありません。\n\nこのシナリオの全攻撃側,防御側師団は共にポイント収入は同じです.更に,各フェイズの徴発ポイントは,各フェイズの最初に与えられます.次のフェイズが始まるまで,あなたはそのポイント以上を受け取ることはありません.";;
-"BreakTitle";"f7f1fb97:4ccf68ef:a17cbf8c:301831ab";"---";;"シナリオ 提示\n--------------------------------\n";;
-"M01US";"99d66c6a:47ef3b3d:56397297:e091e9a1";"---";;"作戦任務 1: Hedgerow Hell";;
+"BreakTitle";"f7f1fb97:4ccf68ef:a17cbf8c:301831ab";"---";;"シナリオ\n--------------------------------\n";;
+
+"LobbyC112L";"805cc520:4e9b32ae:b2732aa7:3382a9ca";"---";;"第112高地 最後の抵抗(連合国 攻撃)";;
+"LobbyC112X";"fb3e4261:40fbb606:b172718b:19f0151e";"---";;"第112高地 最後の抵抗(枢軸国 攻撃)";;
+"LobbyCheuL";"d6c8e6ca:4705fd0d:9fcbdb9d:db8e4865";"---";;"シューへの攻勢 (連合国 攻撃)";;
+"LobbyCheuX";"51d68009:4bf21218:4b950983:e8c72a37";"---";;"シューへの攻勢 (枢軸国 攻撃)";;
+"LobbyColbL";"4d65ee32:4ab6d713:f11c8fa8:50d779ac";"---";;"コロンベル製鋼所 (連合国 攻撃)";;
+"LobbyColbX";"22252532:4d3eeb00:b75ea9af:98300895";"---";;"コロンベル製鋼所 (枢軸国 攻撃)";;
+"LobbyMerdL";"921c4ef6:40007f0e:e39c2999:81ac2fcf";"---";;"メルドレ交差路 (連合国 攻撃)";;
+"LobbyMerdX";"37c485cb:4ee38bce:dfb2adb1:eae73758";"---";;"メルドレ交差路 (枢軸国 攻撃)";;
+
+"M01US";"99d66c6a:47ef3b3d:56397297:e091e9a1";"---";;"作戦任務 1: ヘッジロウヘル";;
 "M01USDesc";"aee8c323:4c2eb919:b53c62a7:2a9d14e3";"---";;"\n 宛: ウォーレン少佐,\n\n 厳密には当初の作戦計画通りではないが侵攻はうまくいっている.戦いは正しい場所から始めるものである.\n\n貴官の主目標は,オードゥヴィル＝ラ＝ユベール(Audouville-la-Hubert)の分岐路を確保し,ユタ海岸へと移動するドイツ軍を待ち伏せ,そして,できる限り早急に反撃をし,第4歩兵師団がサント＝メール＝エグリーズ(Sainte-Mere-Eglise)に向かう道を開いてもらいたい.スピードがここでは最重要視される.\n\n貴官の副目標は,第4歩兵師団の進行を妨げる 秘匿された重対戦車砲と野砲の位置を特定し 黙らせてもらいたい.\n\n--------------\n主目標\nDD戦車の進路を確保せよ.";;
 "M01USR";"29eb1e6c:4649a3d0:daae7a8d:a0e3b62e";"---";;"主目標: DD戦車の進路を確保せよ.";;
-"M02US";"578f5740:466ead63:66a85fb6:c2eda21e";"---";;"作戦任務 2: Blood on the Risers";;
+
+"M02US";"578f5740:466ead63:66a85fb6:c2eda21e";"---";;"作戦任務 2: 降下兵賛歌(Blood on the Risers)";;
 "M02USDesc";"7f1a5235:4cf00672:20bd0c86:f8f8c8c4";"---";;"\n 宛: ウォーレン少佐,\n\n 第4歩兵師団は,橋頭堡を拡張しつつ内陸奥地へ移動中である.しかしオーバーロード作戦の成功は,まだ流動的である: 我々の空挺部隊は, 若干,いい加減に降下したようだ.連隊での作戦目標を,わずか中隊か大隊規模でしか確保できていない.我々は彼らに増援が必要と考えている.\n\n貴官の作戦目標は,第4歩兵師団のエリート部隊を引き連れ,サント＝メール＝エグリーズ(Sainte-Mere-Eglise)を確保し,第505連隊と合流せよ.彼らはあまりに少数で,弾薬も尽きている.彼らと合流し,彼らに物資を補給して,彼らと共にドイツ軍の反撃を食い止めよ.\n\nこの作戦の進行を手助けするために,航空支援と艦砲射撃を優先的に割り当てる予定だ.\n\n--------------\n主目標\nサント＝メール＝エグリーズ(Sainte-Mere-Eglise)にいる空挺部隊と合流せよ.";;
 "M02USR";"4c4052ab:46c06082:65165588:8e3dc5dd";"---";;"主目標: サント＝メール＝エグリーズ(Sainte-Mere-Eglise)にいる空挺部隊と合流せよ.";;
-"M03US";"a20693bf:4c29e44b:dc6556b8:b5071230";"---";;"作戦任務 3: Burning Bridges";;
+
+"M03US";"a20693bf:4c29e44b:dc6556b8:b5071230";"---";;"作戦任務 3: 燃える橋";;
 "M03USDesc";"510adbf3:4992d98a:855166a7:115e4b00";"---";;"\n 宛: ウォーレン少佐,\n\n サント＝メール(Sainte-Mere)で,即座に対応しなければならない脅威が持ち上がったが猶予している.ドイツ軍は,メルドレ川西岸で戦力を集めサント＝メール(Sainte-Mere)を奪い返し,分岐路を確保しようとしている.\n\n貴官への命令は,そこに行き,第508連隊第1大隊の指揮をとって,我々がさらなる増援を送るまで,ドイツ軍に橋を確保されるのを防ぐことだ.そして,充分に戦力を整えたら,直ちにドイツ軍の物資集積所を攻撃し,彼らを撃退することが作戦目標となる.\n\n副目標として,当該作戦区域で空軍の活動を妨げる,主たる対空兵器の位置を特定し破壊せよ.それを無力化できると,航空支援を直に受け取れるだろう.\n\n--------------\n主目標\n橋を維持せよ.";;
 "M03USR";"a10ebc7e:41b41bd4:28351b8f:7e725106";"---";;"主目標: 橋を維持せよ.";;
-"M04US";"bcc64d0b:4e995599:bf1de8b7:a9c0c7f3";"---";;"作戦任務 4: Iron Fist";;
+
+"M04US";"bcc64d0b:4e995599:bf1de8b7:a9c0c7f3";"---";;"作戦任務 4: 鋼の拳";;
 "M04USDesc";"37b89b1a:48193e98:8ec1519a:1ee7a931";"---";;"\n 宛: ウォーレン少佐,\n\n ボプト(Baupte)村の近くで,第100補充装甲部隊(Panzer-Ersatz-Abteilung 100)の位置が特定された.どうやら,旧型戦車がノロノロと退却しているようで,貴官の大隊と向かい合った第101空挺師団の一部との間に,敵を誘い込む機会が与えられたのだ!\n\n貴官への命令は,第506連隊と合流し,101師団との貴官の間に,できる限り多くのドイツ軍を誘い込め.\n\n副目標として,地元のレジスタンスと連絡を取れ:彼らは,退却中の占領軍には,すこしばかり熱心に対処するように見える,もし彼らの熱意と通じることができれば,いくらか力になってくれるだろう.\n\n--------------\n主目標\nドイツ軍を倒せ.";;
 "M04USR";"bcfeb71e:4151fe39:72501a91:bb494943";"---";;"主目標: ドイツ軍を倒せ.";;
-"MISSION1";"09caf9fa:4f316d1c:3c65daaa:e8d8ac14";"---";;"作戦任務 1: It's a long way…";;
+
+"MISSION1";"09caf9fa:4f316d1c:3c65daaa:e8d8ac14";"---";;"作戦任務 1: 遙かなティペラリー(It's a long way…)";;
 "MISSION1D";"003fcf67:45ab46c1:b16f52bb:c619f016";"---";;"\n 宛: サー・コリン,\n\n エプソム作戦に参加することは第46(Highland)歩兵旅団の名誉である.\n\n貴官の主目標は,シュー(Cheux)村を奪取するだけではなく,維持することがより重要となる.エプソム作戦を計画通りに進める為には,シュー(Cheux)村が我々の手中にあることが極めて重要だ.\n\n第31機甲旅団が貴官の攻撃を支援し続けるだろう,しかし歩兵部隊が欠けている: 貴官の部隊の一部を使って彼らを守り,目標に素早く到着する手段を講じてほしい.そうすれば彼らは全力で貴官を支援する.\n\n--------------\n主目標\nシュー(Cheux)を奪取し維持せよ.";;
-"MISSION1G";"8f07454c:479ca666:d2616eba:85e24210";"---";;"作戦任務 1: Sie kommen!";;
+"MISSION1G";"8f07454c:479ca666:d2616eba:85e24210";"---";;"作戦任務 1: 来訪者(Sie kommen)!";;
 "MISSION1GD";"aeabc179:4f86c77c:55599c84:af93ba86";"---";;"\n 宛: ラウホ大佐,\n\n ここノルマンディで, 長いこと待ち続けた連合軍の侵攻が始まった. 'これは陽動ではない'ロンメル元帥は嘘を言わなかった. 連合軍の主力は, 橋頭堡を築こうとしている.\n\nわが師団が最も進出した戦闘集団であり,貴官の主目標は,敵の攻撃波を制し, 昨晩,我々の背後に降下した降下兵が,それと合流するのを防げ.\n\n副目標は,もし可能ならば,ウイストルアム(Ouistreham)で包囲されている,第736擲弾兵旅団を支援し,救出してもらいたい.\n\n--------------\n主目標\nベヌヴィル(Benouville)からの敵を防げ.";;
 "MISSION1GR";"99b33bb2:47d6580c:335f03b9:e923793c";"---";;"主目標: ベヌヴィル(Benouville)からの敵を防げ.";;
 "MISSION1R";"3caedbed:437861c6:da35aa96:85fc8dd6";"---";;"主目標: シュー(Cheux)を奪取し維持せよ.";;
-"MISSION2";"c2357b00:45a8d824:8da3b992:4f621f0b";"---";;"作戦任務 2: Battle for the Odon";;
+"MISSION2";"c2357b00:45a8d824:8da3b992:4f621f0b";"---";;"作戦任務 2: オドンの戦い";;
 "MISSION28";"4317b82e:4ba44ffc:95c8959f:4f7bcff4";"---";;"Training 1";;
 "MISSION28D";"62ec4b39:440f5be9:e2e60587:d7e5fbf3";"---";;"戦車戦演習";;
 "MISSION2D";"54da8160:402b202b:fc188082:732f6285";"---";;"\n 宛: サー・コリン,\n\n ドイツ軍は,我々がシュー(Cheux)を突破したことで動揺しているが,しかし彼らは迅速に立て直しつつある.我々は,彼らが立て直す前にオドン(Odon)を急いで渡る必要がある.\n\n貴官への命令は,少なくとも川にかかる橋の１つを確保し,対岸に橋頭堡を構築すること.軍は,貴官に支援することを警戒しており,貴官が確保後速やかに渡河する.\n\n気をつけろ,ドイツ軍は,そうやすやすと,オドン(Odon)の対岸の地には足を下ろさせてはくれないだろう,彼らは反転攻勢の準備をしている.\n\n--------------\n主目標\nドイツ軍を撃破せよ.";;
-"MISSION2G";"0b2f4ffb:4fc1e4d7:6341e4bb:1e9ffe7b";"---";;"作戦任務 2: Pegasus Bridge";;
+"MISSION2G";"0b2f4ffb:4fc1e4d7:6341e4bb:1e9ffe7b";"---";;"作戦任務 2: ペガサス橋";;
 "MISSION2GD";"28858d40:43144d03:3fdb4cb9:ae4d1e47";"---";;"\n 宛: ラウホ大佐,\n\n ベヌヴィル(Benouville)の橋を確保している英国降下兵は,主な橋頭堡から孤立している.これは奴らを全滅させる,またと無い機会である.\n\n貴官の作戦目標は,彼らがコマンド部隊や,メルヴィル(Merville)から,更にやってくる部隊によって,強化される前に攻撃し橋を奪取せよ.\n\n--------------\n主目標\nオルネ(Orne)橋を確保せよ.";;
 "MISSION2GR";"0ef31eee:48d3cae9:9291a0bd:db3781db";"---";;"主目標: オルネ(Orne)橋を確保せよ.";;
 "MISSION2R";"5b984a28:4499dd36:01591298:56e319f6";"---";;"主目標: ドイツ軍を撃破せよ";;
-"MISSION3";"95c67419:43329cee:b66339ad:0e084a7d";"---";;"作戦任務 3: The Scottish Corridor";;
+"MISSION3";"95c67419:43329cee:b66339ad:0e084a7d";"---";;"作戦任務 3: スコットランド街道";;
 "MISSION3D";"01f9b5d8:4de1f030:4d1e9384:3e8aa9ea";"---";;"\n 宛: サー・コリン,\n\n 第11機甲師団が陣頭に立つ時が来た,112高地(Hill 112)における最終決戦の用意をせよ. ドイツ軍は,黙ってこんなことをさせる気はない, 第11師団が戦場へ移動途中の攻撃されやすい時に,叩いてくるだろう.\n\n貴官の作戦は,≪?Scottish Corridor?≫を開け続けておくこと: 道路を確保し,第11師団の装甲輸送車両群を防護せよ.彼らは,いかなる代償を払ってでも通過させなければならない.\n\nドイツ軍は,回廊の両側に装甲部隊を集中させ続けていて,貴官を挟撃して撃破しようと目論んでいる.\n\n--------------\n主目標\n第11装甲師団の輸送車両群を防護せよ.";;
-"MISSION3G";"0fdeadf3:4abd30b0:e4d9b39e:74976a84";"---";;"作戦任務 3: Panzer Vor!";;
+"MISSION3G";"0fdeadf3:4abd30b0:e4d9b39e:74976a84";"---";;"作戦任務 3: パンツァーフォー!";;
 "MISSION3GD";"a3b8a3e4:43d35f42:a59918a3:1456f037";"---";;"\n 宛: ラウホ大佐,\n\n ベヌヴィル(Benouville)橋は今確保された,ロンメル元帥は, 我々第21装甲師団と第12SS装甲師団の集団に,橋頭堡への攻撃と,連合軍をドーバーに叩きこむよう命令された.しかし英軍は,危険を十分に承知しており,我々の侵攻途上に,既に部隊を配置している.\n\n貴官へ命令は,英軍が増強される前に,遅滞なく攻撃して防御陣形を突き進み,一日が終わる前に,リオン＝シュル＝メール(Lion-sur-Mer)の正面にできる限り多くの部隊を連れて行かなければならない.\n\n第12SS装甲師団は,橋頭堡への最終攻撃を支援する為に,貴官が通った跡に続いていくだろう,従って,貴官は部隊の背後を気にする必要はない.\n\n--------------\n主目標\nかなりの数を部隊をリオン＝シュル＝メール(Lion-sur-Mer)へ突破させよ.";;
 "MISSION3GR";"424a848f:4f04ba61:95ad4395:7d337b53";"---";;"主目標: かなりの数を部隊をリオン＝シュル＝メール(Lion-sur-Mer)へ突破させよ.";;
 "MISSION3R";"f46f3e5e:481a9c47:d8c85cb0:1e7b2a26";"---";;"主目標: 第11装甲師団の輸送車両群を防護せよ.";;
-"MISSION4";"7118ed2f:4a459da3:358ece86:cc3864c3";"---";;"作戦任務 4: Over the hill and far away";;
+"MISSION4";"7118ed2f:4a459da3:358ece86:cc3864c3";"---";;"作戦任務 4: 峠を越え さらなる遠くへ";;
 "MISSION4D";"565c17b2:46aa82e1:db56849e:83893fa4";"---";;"\n 宛: サー・コリン,\n\n 112高地(Hill 112)を統制し,ノルマンディを統制する者. 今,ドイツ軍の手中にあるが,遅かれ早かれ,我々に手渡すはずだ.\n\n貴官の作戦目標はシンプルだ: 112高地(Hill 112)を占領せよ.第2SS装甲軍の防御を突破し,高原の敵を除去し,そして防御陣形をとる準備をせよ,ジェリー達は,そう簡単にはあきらめないぞ.\n\n確実に,どんなにコストがかかっても丘の頂上を保持せよ,ノルマンディを我が手に.\n\n--------------\n主目標\n112高地(Hill 112)を占領し保持せよ.";;
-"MISSION4G";"f599c07a:42d301f7:859b948e:7852c8a6";"---";;"作戦任務 4: The Lion's Den";;
+"MISSION4G";"f599c07a:42d301f7:859b948e:7852c8a6";"---";;"作戦任務 4: 獅子達の巣窟";;
 "MISSION4GD";"c00c1ccd:41ce6c02:16415ca8:6716c7f1";"---";;"\n 宛: ラウホ大佐,\n\n これは侵略者を打ち負かす二つと無いチャンスである: 我々は,今ここから,連合軍をドーバーに投げ込むことに成功したか,カナダ軍と英軍に挟撃される罠に落ちたか,どちらかである.我々の人生を掛けた戦いになるだろう; この二日間の戦闘で,英軍は,撃破するのが可能なほどに,じゅうぶんに弱体した.\n\n貴官への命令は,第12SS装甲師団の支援をうけて,共に攻撃せよ,簡潔に言うと: 橋頭堡を破壊し,やつらをドーバーに叩きこめ!\n\n--------------\n主目標\n英国系カナダ人を倒せ.";;
 "MISSION4GR";"2fda261b:423fef17:6951fea4:c7b3a174";"---";;"主目標: 英国系カナダ人を倒せ.";;
 "MISSION4R";"054868b1:4427bdd8:1971d38e:abaf1233";"---";;"主目標: 112高地(Hill 112)を占領し保持せよ.";;
@@ -1782,9 +1806,9 @@
 "SFATextM";"09de30dc:4a033db5:bb685996:ffaea24c";"---";;"攻撃側は,わずか地域しか支配下においていない状況下で,極端な被害(マップ上の支配地域の損失も10%以下)を抑えつつ,作戦目標を奪取します。\n\n防御側は,マップの殆どを支配下に置いています.防御側は作戦目標を支配下に置かねばならず,攻撃側に十分な損失を与えなければなりません(破壊ポイントによって).";;
 "SFATitle";"81e97442:42b2d919:a60d199f:21850f88";"---";;"交戦 規則\n--------------------------------\n";;
 
-"SPHB_OBJ";"e1dfb284:4cb78cca:c9258b92:11491fae";"---";;"- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.";;
-"SPHB_OBJA";"d7313785:4e0e7e18:c7ae7f9d:58deef5e";"---";;"- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.\n\n- #Arialbold{Allied} player(s) loses if sustaining too many casualties.";;
-"SPHB_OBJG";"277dbb93:47dc34f2:53bbafa3:6c610311";"---";;"- Victory is determined by the number of #Arialbold{objectives} secured. If a side controls #Arialbold{all} the objectives, a countdown to sudden death initiates.\n\n- Check your #Arialbold{division's income}, it can be either #Arialbold{phase} or #Arialbold{countdown} income.\n\n- #Arialbold{German} player(s) loses if sustaining too many casualties.";;
+"SPHB_OBJ";"e1dfb284:4cb78cca:c9258b92:11491fae";"---";;"- 勝利は 確保した #Arialbold{作戦目標} の数で決まる. 片方が  #Arialbold{全ての}作戦目標を支配下に置いた時,サドンデスのカウントダウンが始まる.\n\n- #Arialbold{師団の収入}を確認せよ, #Arialbold{フェイズ} と #Arialbold{カウントダウン}の二つがある.";;
+"SPHB_OBJA";"d7313785:4e0e7e18:c7ae7f9d:58deef5e";"---";;"- 勝利は 確保した #Arialbold{作戦目標} の数で決まる. 片方が  #Arialbold{全ての}作戦目標を支配下に置いた時,サドンデスのカウントダウンが始まる.\n\n- #Arialbold{師団の収入}を確認せよ, #Arialbold{フェイズ} と #Arialbold{カウントダウン}の二つがある.\n\n- #Arialbold{連合国軍}プレイヤーは,甚大な損害を出すと敗北する.";;
+"SPHB_OBJG";"277dbb93:47dc34f2:53bbafa3:6c610311";"---";;"- 勝利は 確保した #Arialbold{作戦目標} の数で決まる. 片方が  #Arialbold{全ての}作戦目標を支配下に置いた時,サドンデスのカウントダウンが始まる.\n\n- #Arialbold{師団の収入}を確認せよ, #Arialbold{フェイズ} と #Arialbold{カウントダウン}の二つがある.\n\n- #Arialbold{ドイツ軍}プレイヤーは,甚大な損害を出すと敗北する.";;
 
 "T01DHD";"707d73b0:4a9d0d01:e39900ae:f9e9051b";"---";;"ブートキャンプ, 1944年4月12日";;
 "T01US";"3a1c69af:4dc1ca0c:1e5ba68d:006d89a0";"---";;"教練 1: 配置 & 機動";;
